@@ -1,0 +1,759 @@
+Query,Alien index (AI),HGT index (hU),Top species Evalue
+Smic.gene10101.mRNA1,False,False,Thermoflexus hugenholtzii
+Smic.gene10133.mRNA1,False,False,Solanum lycopersicum
+Smic.gene10178.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene10221.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene10248.mRNA1,False,False,Aureococcus anophagefferens
+Smic.gene10274.mRNA1,False,False,Morus notabilis
+Smic.gene10297.mRNA1,False,False,Chrysochromulina tobinii
+Smic.gene10343.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene10365.mRNA1,False,False,Monoraphidium neglectum
+Smic.gene10426.mRNA1,False,False,bacterium (Candidatus Gribaldobacteria) CG_4_10_14_0_2_um_filter_41_16
+Smic.gene10515.mRNA1,False,False,Micromonas pusilla CCMP1545
+Smic.gene10538.mRNA1,False,False,Bodo saltans
+Smic.gene10548.mRNA1,False,True,Beihai sobemo-like virus 6
+Smic.gene10572.mRNA1,False,False,Dendrobium catenatum
+Smic.gene10610.mRNA1,False,False,Limnobacter sp. CACIAM 66H1
+Smic.gene10652.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene1081.mRNA1,False,False,Hammondia hammondi
+Smic.gene10811.mRNA1,False,False,Myotis brandtii
+Smic.gene10835.mRNA1,False,False,Trypanosoma rangeli SC58
+Smic.gene10860.mRNA1,False,False,Chlorella sorokiniana
+Smic.gene10870.mRNA1,False,False,Guillardia theta CCMP2712
+Smic.gene10952.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene10972.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene11039.mRNA1,False,False,Karlodinium veneficum
+Smic.gene11053.mRNA1,False,False,Heterocapsa triquetra
+Smic.gene11083.mRNA1,False,False,Anolis carolinensis
+Smic.gene11153.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene11222.mRNA1,False,False,Pygocentrus nattereri
+Smic.gene11316.mRNA1,False,False,Dictyostelium purpureum
+Smic.gene11477.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene1149.mRNA1,False,False,Trifolium pratense
+Smic.gene1155.mRNA1,False,False,Mucor ambiguus
+Smic.gene11625.mRNA1,False,False,Nannocystis exedens
+Smic.gene1168.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene11729.mRNA1,False,False,Guillardia theta CCMP2712
+Smic.gene11748.mRNA1,False,False,Pyrus x bretschneideri
+Smic.gene11766.mRNA1,False,False,Pfiesteria piscicida
+Smic.gene11858.mRNA1,False,False,Cynara cardunculus var. scolymus
+Smic.gene11893.mRNA1,False,False,Anolis carolinensis
+Smic.gene11896.mRNA1,False,False,Pedinophyceae sp. YPF-701
+Smic.gene11897.mRNA1,False,False,Pedinophyceae sp. YPF-701
+Smic.gene1191.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene11920.mRNA1,False,False,Sorghum bicolor
+Smic.gene11940.mRNA1,False,False,Pythium insidiosum
+Smic.gene11943.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene11951.mRNA1,False,False,Ectocarpus siliculosus
+Smic.gene11999.mRNA1,False,False,Tetraselmis indica
+Smic.gene12039.mRNA1,False,False,Ectocarpus siliculosus
+Smic.gene12075.mRNA1,False,False,Macrostomum lignano
+Smic.gene12097.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene12124.mRNA1,False,False,Klebsormidium nitens
+Smic.gene12129.mRNA1,False,False,Chrysanthemum x morifolium
+Smic.gene12132.mRNA1,False,False,Ostreococcus tauri
+Smic.gene12221.mRNA1,False,False,Aureococcus anophagefferens
+Smic.gene12227.mRNA1,False,False,Acropora digitifera
+Smic.gene12255.mRNA1,False,False,Chrysochromulina tobinii
+Smic.gene12327.mRNA1,False,False,Selaginella moellendorffii
+Smic.gene1234.mRNA1,False,False,Guillardia theta CCMP2712
+Smic.gene1238.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene1239.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene12396.mRNA1,False,False,Protobothrops mucrosquamatus
+Smic.gene12465.mRNA1,False,False,[Candida] boidinii
+Smic.gene12467.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene12469.mRNA1,False,False,Ostreococcus tauri
+Smic.gene12578.mRNA1,False,False,Heterocapsa triquetra
+Smic.gene12600.mRNA1,False,False,Amborella trichopoda
+Smic.gene1262.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene12644.mRNA1,False,False,Nematostella vectensis
+Smic.gene1274.mRNA1,False,False,Camponotus floridanus
+Smic.gene12749.mRNA1,False,False,Copidosoma floridanum
+Smic.gene12751.mRNA1,False,False,Zea mays
+Smic.gene12756.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene12779.mRNA1,False,False,Drosophila busckii
+Smic.gene1284.mRNA1,False,False,Only Syngen Nebraska virus 5
+Smic.gene12857.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene12867.mRNA1,False,False,Coccomyxa subellipsoidea C-169
+Smic.gene12868.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene12884.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene12895.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene12923.mRNA1,False,False,Solemya velum gill symbiont
+Smic.gene12924.mRNA1,False,False,Cystoisospora suis
+Smic.gene12929.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene1294.mRNA1,False,False,Pythium insidiosum
+Smic.gene12944.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene13059.mRNA1,False,False,Ostreococcus tauri
+Smic.gene13097.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene13130.mRNA1,False,False,Fistulifera solaris
+Smic.gene13160.mRNA1,False,False,Fragilariopsis cylindrus CCMP1102
+Smic.gene13167.mRNA1,False,False,Ensifer aridi
+Smic.gene13261.mRNA1,False,False,Fistulifera solaris
+Smic.gene13273.mRNA1,False,False,Ostreococcus tauri
+Smic.gene1334.mRNA1,False,False,Paratrypanosoma confusum
+Smic.gene13371.mRNA1,False,False,Auxenochlorella protothecoides
+Smic.gene13373.mRNA1,False,False,Aureococcus anophagefferens virus
+Smic.gene13427.mRNA1,False,False,Chlorella variabilis
+Smic.gene13432.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene13437.mRNA1,False,False,Bos mutus
+Smic.gene13451.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene13455.mRNA1,False,False,Drosophila serrata
+Smic.gene13482.mRNA1,False,False,Aureococcus anophagefferens
+Smic.gene13529.mRNA1,False,False,Organic Lake phycodnavirus
+Smic.gene13554.mRNA1,False,False,Stappia sp. ES.058
+Smic.gene13565.mRNA1,False,False,Besnoitia besnoiti
+Smic.gene13578.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene13599.mRNA1,False,False,Paramecium tetraurelia strain d4-2
+Smic.gene1363.mRNA1,False,False,Populus euphratica
+Smic.gene13633.mRNA1,False,False,Thelohanellus kitauei
+Smic.gene13641.mRNA1,False,False,Aplysia californica
+Smic.gene13656.mRNA1,False,False,Hippocampus comes
+Smic.gene13671.mRNA1,False,False,Amphimedon queenslandica
+Smic.gene13685.mRNA1,False,False,Tetrapisispora blattae CBS 6284
+Smic.gene13699.mRNA1,False,False,Orbicella faveolata
+Smic.gene13745.mRNA1,False,False,Physcomitrella patens
+Smic.gene13780.mRNA1,False,False,Chrysochromulina tobinii
+Smic.gene13782.mRNA1,False,False,Desulfobacula toluolica
+Smic.gene13828.mRNA1,False,False,Gallus gallus
+Smic.gene13949.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene13979.mRNA1,False,False,Acanthamoeba castellanii str. Neff
+Smic.gene13980.mRNA1,False,False,Chrysochromulina tobinii
+Smic.gene13983.mRNA1,False,False,Scleropages formosus
+Smic.gene14019.mRNA1,False,False,Chlamydiae bacterium RIFCSPHIGHO2_01_FULL_44_39
+Smic.gene14030.mRNA1,False,False,Saprolegnia diclina VS20
+Smic.gene14043.mRNA1,False,False,Acanthamoeba castellanii str. Neff
+Smic.gene14050.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene14077.mRNA1,False,False,Gonium pectorale
+Smic.gene14133.mRNA1,False,False,Raphanus sativus
+Smic.gene14153.mRNA1,False,False,Guillardia theta CCMP2712
+Smic.gene14154.mRNA1,False,False,Ectocarpus siliculosus
+Smic.gene14185.mRNA1,False,False,Gossypium raimondii
+Smic.gene14192.mRNA1,False,False,Fistulifera solaris
+Smic.gene14241.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene14266.mRNA1,False,False,Lingula anatina
+Smic.gene14359.mRNA1,False,False,Helicobacter bilis
+Smic.gene14370.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene14393.mRNA1,False,False,Bodo saltans
+Smic.gene144.mRNA1,False,False,Panicum hallii
+Smic.gene14412.mRNA1,False,False,Ostreococcus tauri
+Smic.gene14424.mRNA1,False,False,Cryptosporidium andersoni
+Smic.gene14428.mRNA1,False,False,Pythium insidiosum
+Smic.gene14448.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene14507.mRNA1,False,False,Klosneuvirus KNV1
+Smic.gene14511.mRNA1,False,False,Catovirus CTV1
+Smic.gene14516.mRNA1,False,False,Heterocapsa triquetra
+Smic.gene14524.mRNA1,False,False,Lupinus angustifolius
+Smic.gene14540.mRNA1,False,False,Saccoglossus kowalevskii
+Smic.gene14594.mRNA1,False,False,Rhizosolenia imbricata
+Smic.gene146.mRNA1,False,False,Pfiesteria piscicida
+Smic.gene14625.mRNA1,False,False,Boleophthalmus pectinirostris
+Smic.gene14631.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene1465.mRNA1,False,False,Paramecium tetraurelia strain d4-2
+Smic.gene1466.mRNA1,False,False,Paramecium tetraurelia strain d4-2
+Smic.gene1467.mRNA1,False,False,Pythium insidiosum
+Smic.gene14726.mRNA1,False,False,Streptoalloteichus hindustanus
+Smic.gene14745.mRNA1,False,False,Streptosporangium subroseum
+Smic.gene14747.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene14797.mRNA1,False,False,Stentor coeruleus
+Smic.gene14808.mRNA1,False,False,Karlodinium veneficum
+Smic.gene14826.mRNA1,False,False,Rhizophagus irregularis DAOM 181602=DAOM 197198
+Smic.gene14849.mRNA1,False,False,Oryzias melastigma
+Smic.gene14910.mRNA1,False,False,Stentor coeruleus
+Smic.gene14937.mRNA1,False,False,Drosophila elegans
+Smic.gene14979.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene14987.mRNA1,False,False,Achlya hypogyna
+Smic.gene15008.mRNA1,False,False,Achlya hypogyna
+Smic.gene15016.mRNA1,False,False,Olea europaea var. sylvestris
+Smic.gene15038.mRNA1,False,False,Trichoplax adhaerens
+Smic.gene15116.mRNA1,False,False,Ectocarpus siliculosus
+Smic.gene15134.mRNA1,False,False,Chlamydomonas reinhardtii
+Smic.gene15135.mRNA1,False,False,Stentor coeruleus
+Smic.gene1515.mRNA1,False,False,Mycobacterium virus Acadian
+Smic.gene15159.mRNA1,False,False,Hydra vulgaris
+Smic.gene15164.mRNA1,False,False,Cryptosporidium andersoni
+Smic.gene15166.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene15195.mRNA1,False,False,Aureococcus anophagefferens
+Smic.gene15196.mRNA1,False,False,Phalaenopsis equestris
+Smic.gene15208.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene15375.mRNA1,False,False,Biomphalaria glabrata
+Smic.gene15393.mRNA1,False,False,Phaeodactylum tricornutum CCAP 1055/1
+Smic.gene15400.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene15469.mRNA1,False,False,Aureococcus anophagefferens
+Smic.gene15471.mRNA1,False,False,Macrostomum lignano
+Smic.gene15477.mRNA1,False,False,Trichechus manatus latirostris
+Smic.gene1548.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene15521.mRNA1,False,False,Candidatus Puniceispirillum sp. TMED52
+Smic.gene15650.mRNA1,False,False,Aureococcus anophagefferens
+Smic.gene15704.mRNA1,False,False,Karlodinium veneficum
+Smic.gene15718.mRNA1,False,False,Trichomonas vaginalis G3
+Smic.gene15719.mRNA1,False,False,Astyanax mexicanus
+Smic.gene1576.mRNA1,False,False,Klebsormidium nitens
+Smic.gene158.mRNA1,False,False,Aureococcus anophagefferens
+Smic.gene15861.mRNA1,False,False,Aquimarina muelleri
+Smic.gene15863.mRNA1,False,False,Aureococcus anophagefferens
+Smic.gene1589.mRNA1,True,True,Wenzhou weivirus-like virus 1
+Smic.gene15906.mRNA1,False,False,Stentor coeruleus
+Smic.gene16025.mRNA1,False,False,Scleropages formosus
+Smic.gene16096.mRNA1,False,False,Acanthaster planci
+Smic.gene16180.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene16250.mRNA1,False,False,Aureococcus anophagefferens
+Smic.gene16292.mRNA1,False,False,Cystoisospora suis
+Smic.gene16306.mRNA1,False,False,Chryseobacterium taichungense
+Smic.gene16322.mRNA1,False,False,Daucus carota subsp. sativus
+Smic.gene16327.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene16353.mRNA1,False,False,Phytophthora nicotianae
+Smic.gene16435.mRNA1,False,False,Spinacia oleracea
+Smic.gene16513.mRNA1,False,False,Capitella teleta
+Smic.gene16532.mRNA1,False,False,Durio zibethinus
+Smic.gene16550.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene16564.mRNA1,False,False,Aegilops tauschii subsp. tauschii
+Smic.gene16570.mRNA1,False,False,Entomoplasma somnilux
+Smic.gene16571.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene16651.mRNA1,False,False,Selaginella moellendorffii
+Smic.gene1666.mRNA1,False,False,Elaeis guineensis
+Smic.gene16664.mRNA1,False,False,Halalkalicoccus paucihalophilus
+Smic.gene16731.mRNA1,False,False,Fragilariopsis cylindrus CCMP1102
+Smic.gene16736.mRNA1,False,False,Nannochloropsis gaditana
+Smic.gene16769.mRNA1,False,False,Lottia gigantea
+Smic.gene16853.mRNA1,False,False,Cladocopium sp. C3
+Smic.gene16857.mRNA1,False,False,Macrostomum lignano
+Smic.gene16956.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene17019.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene17073.mRNA1,False,False,Pinus massoniana
+Smic.gene17099.mRNA1,False,False,Chlamydomonas reinhardtii
+Smic.gene17177.mRNA1,False,False,Candidatus Eisenbacteria bacterium RBG_16_71_46
+Smic.gene17210.mRNA1,False,False,Hammondia hammondi
+Smic.gene17228.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene17229.mRNA1,False,False,Acanthamoeba castellanii str. Neff
+Smic.gene17234.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene17248.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene17298.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene17304.mRNA1,False,False,Guillardia theta CCMP2712
+Smic.gene1734.mRNA1,False,False,Thalassiosira oceanica
+Smic.gene17352.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene17354.mRNA1,False,False,Cyanidioschyzon merolae strain 10D
+Smic.gene17467.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene17476.mRNA1,False,False,Only Syngen Nebraska virus 5
+Smic.gene17522.mRNA1,False,False,Crypthecodinium cohnii
+Smic.gene17525.mRNA1,False,False,Monosiga brevicollis MX1
+Smic.gene17532.mRNA1,False,False,Candidatus Nealsonbacteria bacterium CG10_big_fil_rev_8_21_14_0_10_36_23
+Smic.gene17537.mRNA1,False,False,Crypthecodinium cohnii
+Smic.gene17541.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene17550.mRNA1,False,False,Phytophthora sojae
+Smic.gene17610.mRNA1,False,False,Klebsormidium nitens
+Smic.gene17629.mRNA1,False,False,Pfiesteria piscicida
+Smic.gene17643.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene17665.mRNA1,False,False,Fragilariopsis cylindrus CCMP1102
+Smic.gene17693.mRNA1,False,False,Cryptosporidium meleagridis
+Smic.gene17722.mRNA1,False,False,Thalassiosira pseudonana CCMP1335
+Smic.gene17744.mRNA1,False,False,Hydrocoleum sp. CS-953
+Smic.gene17770.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene17829.mRNA1,False,False,Helianthus annuus
+Smic.gene17874.mRNA1,False,False,Chlamydomonas reinhardtii
+Smic.gene1789.mRNA1,False,False,Heterocapsa triquetra
+Smic.gene1801.mRNA1,False,False,Chlamydiae bacterium RIFCSPHIGHO2_01_FULL_44_39
+Smic.gene18085.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene18097.mRNA1,True,True,Beihai weivirus-like virus 4
+Smic.gene18136.mRNA1,False,False,Proteobacteria bacterium
+Smic.gene18143.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene18164.mRNA1,False,False,Biomphalaria glabrata
+Smic.gene18170.mRNA1,False,False,Wickerhamiella sorbophila
+Smic.gene18191.mRNA1,False,False,Porphyra umbilicalis
+Smic.gene18214.mRNA1,False,False,Catenaria anguillulae PL171
+Smic.gene18241.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene18281.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene18282.mRNA1,False,False,Nicotiana sylvestris
+Smic.gene18352.mRNA1,False,False,Plutella xylostella
+Smic.gene18427.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene18433.mRNA1,False,False,Rhodotorula taiwanensis
+Smic.gene18446.mRNA1,False,False,Erinaceus europaeus
+Smic.gene18498.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene185.mRNA1,False,False,Chrysochromulina tobinii
+Smic.gene18505.mRNA1,False,False,Salinispora pacifica
+Smic.gene18562.mRNA1,False,False,Guillardia theta CCMP2712
+Smic.gene18593.mRNA1,False,False,Basidiobolus meristosporus CBS 931.73
+Smic.gene18607.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene18610.mRNA1,False,False,Oxytricha trifallax
+Smic.gene18619.mRNA1,False,False,Stentor coeruleus
+Smic.gene18656.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene18717.mRNA1,False,False,Sinocyclocheilus rhinocerous
+Smic.gene18719.mRNA1,False,False,Eremothecium cymbalariae DBVPG#7215
+Smic.gene18753.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene18753.mRNASmic.gene18778.mRNA1,False,False,Oryza sativa Japonica Group
+Smic.gene18778.mRNA1,False,False,Monoraphidium neglectum
+Smic.gene18780.mRNA1,False,False,Clunio marinus
+Smic.gene18781.mRNA1,False,False,Aedes albopictus
+Smic.gene18794.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene18803.mRNA1,False,False,Guillardia theta CCMP2712
+Smic.gene18831.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene18873.mRNA1,False,False,Karlodinium veneficum
+Smic.gene18879.mRNA1,False,False,Euryarchaeota archaeon TMED248
+Smic.gene19034.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene19065.mRNA1,False,False,Centruroides sculpturatus
+Smic.gene19160.mRNA1,False,False,Cyprinodon variegatus
+Smic.gene19168.mRNA1,False,False,Genlisea aurea
+Smic.gene19233.mRNA1,False,False,Thalassiosira pseudonana CCMP1335
+Smic.gene19249.mRNA1,True,True,Beihai sobemo-like virus 4
+Smic.gene19250.mRNA1,True,True,Beihai weivirus-like virus 3
+Smic.gene19267.mRNA1,False,False,Hydra vulgaris
+Smic.gene19312.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene19364.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene19383.mRNA1,False,False,Neolamprologus brichardi
+Smic.gene19440.mRNA1,False,False,Nannochloropsis gaditana
+Smic.gene19454.mRNA1,False,False,Strigomonas culicis
+Smic.gene19469.mRNA1,False,False,Micractinium conductrix
+Smic.gene19524.mRNA1,False,False,Guillardia theta CCMP2712
+Smic.gene19640.mRNA1,False,False,Stentor coeruleus
+Smic.gene19660.mRNA1,False,False,Nannochloropsis gaditana
+Smic.gene19704.mRNA1,False,False,Karenia brevis
+Smic.gene19817.mRNA1,False,False,Opisthorchis viverrini
+Smic.gene19823.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene19852.mRNA1,False,False,Thalassiosira pseudonana CCMP1335
+Smic.gene19879.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene19895.mRNA1,False,False,Sphingomonas sp. Leaf230
+Smic.gene19931.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene19977.mRNA1,False,False,Heterocapsa triquetra
+Smic.gene19992.mRNA1,False,False,Amphidinium carterae
+Smic.gene20018.mRNA1,False,False,Amphidinium carterae
+Smic.gene20085.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene20094.mRNA1,False,False,Thalassiosira oceanica
+Smic.gene20101.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene20150.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene20192.mRNA1,False,False,Oryza sativa Japonica Group
+Smic.gene20198.mRNA1,False,False,Aureococcus anophagefferens
+Smic.gene20203.mRNA1,False,False,Brachypodium distachyon
+Smic.gene2021.mRNA1,False,False,bacterium DOLJORAL78_65_58
+Smic.gene20223.mRNA1,False,False,Ananas comosus
+Smic.gene20250.mRNA1,False,False,Branchiostoma belcheri
+Smic.gene20295.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene20333.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene20381.mRNA1,False,False,Crassostrea virginica
+Smic.gene20482.mRNA1,False,False,Babesia ovata
+Smic.gene20599.mRNA1,False,False,Scleropages formosus
+Smic.gene20613.mRNA1,False,False,Polykrikos lebourae
+Smic.gene20711.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene20741.mRNA1,False,False,Ipomoea nil
+Smic.gene20763.mRNA1,False,False,Crypthecodinium cohnii
+Smic.gene20764.mRNA1,False,False,Cystoisospora suis
+Smic.gene20805.mRNA1,False,False,Nannochloropsis gaditana
+Smic.gene20882.mRNA1,False,False,Daphnia pulex
+Smic.gene20891.mRNA1,False,False,Ostreococcus tauri
+Smic.gene20905.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene20962.mRNA1,False,False,Onthophagus taurus
+Smic.gene20972.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene20981.mRNA1,False,False,Gambierdiscus belizeanus
+Smic.gene21028.mRNA1,False,False,Aureococcus anophagefferens
+Smic.gene21054.mRNA1,False,False,Picea sitchensis
+Smic.gene21076.mRNA1,False,False,Rhizoclosmatium globosum
+Smic.gene21120.mRNA1,False,False,Guillardia theta CCMP2712
+Smic.gene21186.mRNA1,False,False,Ectocarpus siliculosus
+Smic.gene21193.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene21354.mRNA1,False,False,Aplysia californica
+Smic.gene21394.mRNA1,False,False,Plasmodiophora brassicae
+Smic.gene2142.mRNA1,False,False,Sorangium cellulosum
+Smic.gene21441.mRNA1,False,False,Micromonas commoda
+Smic.gene21451.mRNA1,False,False,Biomphalaria glabrata
+Smic.gene21556.mRNA1,False,False,Pseudocohnilembus persalinus
+Smic.gene21589.mRNA1,False,False,Phoenix dactylifera
+Smic.gene21597.mRNA1,False,False,Ectocarpus siliculosus
+Smic.gene21602.mRNA1,False,False,Strongylocentrotus intermedius
+Smic.gene2165.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene21671.mRNA1,False,False,Rhincodon typus
+Smic.gene21683.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene21696.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene21726.mRNA1,False,False,Verrucomicrobia bacterium RIFCSPHIGHO2_12_FULL_41_10
+Smic.gene21727.mRNA1,False,False,Candidatus Woesebacteria bacterium GW2011_GWA1_39_12
+Smic.gene21732.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene21755.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene21790.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene21792.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene21803.mRNA1,False,False,Scrippsiella trochoidea
+Smic.gene21819.mRNA1,False,False,Cryptosporidium andersoni
+Smic.gene21823.mRNA1,False,False,Nannochloropsis gaditana
+Smic.gene21833.mRNA1,False,False,Besnoitia besnoiti
+Smic.gene2186.mRNA1,False,False,Solirubrobacter soli
+Smic.gene21873.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene21883.mRNA1,False,False,Limulus polyphemus
+Smic.gene21886.mRNA1,False,False,Aureococcus anophagefferens
+Smic.gene21969.mRNA1,False,False,Chlamydomonas sp. ICE-L
+Smic.gene21994.mRNA1,False,False,Mucor lusitanicus CBS 277.49
+Smic.gene22015.mRNA1,False,False,Aethina tumida
+Smic.gene22082.mRNA1,False,False,Micromonas commoda
+Smic.gene22190.mRNA1,False,False,Asparagus officinalis
+Smic.gene22207.mRNA1,False,False,Ectocarpus siliculosus
+Smic.gene22308.mRNA1,False,False,Organic Lake phycodnavirus
+Smic.gene22318.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene22321.mRNA1,False,False,Ectocarpus siliculosus
+Smic.gene2233.mRNA1,False,False,Fragilariopsis cylindrus CCMP1102
+Smic.gene22345.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene22456.mRNA1,False,False,Capsella rubella
+Smic.gene22469.mRNA1,False,False,Hordeum vulgare subsp. vulgare
+Smic.gene22499.mRNA1,False,False,Trifolium subterraneum
+Smic.gene22511.mRNA1,False,False,Oscillatoriales cyanobacterium JSC-12
+Smic.gene22514.mRNA1,False,False,Brassica napus
+Smic.gene22617.mRNA1,False,False,Marinobacterium sp. AK27
+Smic.gene22640.mRNA1,False,False,Micromonas commoda
+Smic.gene22650.mRNA1,False,False,Cavia porcellus
+Smic.gene22656.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene22722.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene22726.mRNA1,False,False,Blastocystis sp. ATCC 50177/Nand II
+Smic.gene22727.mRNA1,False,False,Fundulus heteroclitus
+Smic.gene22764.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene22819.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene22831.mRNA1,False,False,Plasmodiophora brassicae
+Smic.gene22841.mRNA1,False,False,Klebsormidium nitens
+Smic.gene22876.mRNA1,False,False,Drosophila erecta
+Smic.gene22889.mRNA1,False,True,Pandoravirus inopinatum
+Smic.gene22917.mRNA1,False,False,Branchiostoma floridae
+Smic.gene22918.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene2300.mRNA1,False,False,Phytophthora palmivora var. palmivora
+Smic.gene23063.mRNA1,False,False,Thalassiosira oceanica
+Smic.gene23102.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene23105.mRNA1,False,False,Ichthyophthirius multifiliis
+Smic.gene23112.mRNA1,False,False,Fistulifera solaris
+Smic.gene23134.mRNA1,False,False,Phytophthora sojae
+Smic.gene23176.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene23260.mRNA1,False,False,Chrysochromulina tobinii
+Smic.gene23275.mRNA1,False,False,Stentor coeruleus
+Smic.gene23281.mRNA1,False,False,Alexandrium fundyense
+Smic.gene23296.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene23297.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene233.mRNA1,False,False,Tilletia caries
+Smic.gene23324.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene23325.mRNA1,False,False,Acanthaster planci
+Smic.gene23353.mRNA1,False,False,Prochlorococcus marinus
+Smic.gene23376.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene23386.mRNA1,False,False,Ectocarpus siliculosus
+Smic.gene23429.mRNA1,False,False,Rhizobium
+Smic.gene23439.mRNA1,False,False,Aspergillus calidoustus
+Smic.gene23445.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene23461.mRNA1,False,False,Cryptotermes secundus
+Smic.gene23462.mRNA1,False,False,Ipomoea nil
+Smic.gene23478.mRNA1,False,False,Fibroporia radiculosa
+Smic.gene23581.mRNA1,False,False,Gambierdiscus excentricus
+Smic.gene23598.mRNA1,False,False,Sheathia arcuata
+Smic.gene23600.mRNA1,False,False,Tarenaya hassleriana
+Smic.gene2362.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene23651.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene23663.mRNA1,False,False,Lingula anatina
+Smic.gene23690.mRNA1,False,False,Babesia bigemina
+Smic.gene23730.mRNA1,False,False,Ananas comosus
+Smic.gene23733.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene23734.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene23778.mRNA1,False,False,Salpingoeca rosetta
+Smic.gene23793.mRNA1,False,False,Aspergillus oryzae RIB40
+Smic.gene2383.mRNA1,False,False,Cyanidioschyzon merolae strain 10D
+Smic.gene23844.mRNA1,False,False,Flammeovirga sp. SJP92
+Smic.gene23854.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene23893.mRNA1,False,False,Stentor coeruleus
+Smic.gene23930.mRNA1,False,False,Cystoisospora suis
+Smic.gene24024.mRNA1,False,False,Stentor coeruleus
+Smic.gene24065.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene2409.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene24149.mRNA1,False,False,Raphanus sativus
+Smic.gene24152.mRNA1,False,False,Gammaproteobacteria bacterium
+Smic.gene24155.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene24176.mRNA1,False,False,Candidatus Scalindua japonica
+Smic.gene24190.mRNA1,False,False,Thalassiosira oceanica
+Smic.gene24195.mRNA1,False,False,Sarcophilus harrisii
+Smic.gene24238.mRNA1,False,False,Chrysochromulina tobinii
+Smic.gene24253.mRNA1,False,False,Planoprotostelium fungivorum
+Smic.gene24257.mRNA1,False,False,Lingula anatina
+Smic.gene24268.mRNA1,False,False,Macrostomum lignano
+Smic.gene24287.mRNA1,False,False,Heterocapsa triquetra
+Smic.gene24289.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene24304.mRNA1,False,False,Limulus polyphemus
+Smic.gene24369.mRNA1,False,False,uncultured bacterium
+Smic.gene24413.mRNA1,False,False,Diaphorina citri
+Smic.gene24490.mRNA1,False,False,Thecamonas trahens ATCC 50062
+Smic.gene24497.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene24538.mRNA1,False,False,Dolichospermum circinale
+Smic.gene24580.mRNA1,False,False,Exaiptasia pallida
+Smic.gene24670.mRNA1,False,False,Phoenix dactylifera
+Smic.gene24692.mRNA1,False,False,Pseudocohnilembus persalinus
+Smic.gene24697.mRNA1,False,False,Besnoitia besnoiti
+Smic.gene24703.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene24754.mRNA1,False,False,Nannochloropsis gaditana
+Smic.gene24780.mRNA1,False,False,Chrysochromulina tobinii
+Smic.gene24785.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene24874.mRNA1,False,False,Babesia bigemina
+Smic.gene24912.mRNA1,False,False,Klebsormidium nitens
+Smic.gene24932.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene24933.mRNA1,False,False,Plasmodiophora brassicae
+Smic.gene24958.mRNA1,False,False,Capsaspora owczarzaki ATCC 30864
+Smic.gene25013.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene25196.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene25197.mRNA1,False,False,Pandoravirus salinus
+Smic.gene25217.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene25220.mRNA1,False,False,Myxococcales bacterium 68-20
+Smic.gene25247.mRNA1,False,False,Drosophila simulans
+Smic.gene25292.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene25295.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene25325.mRNA1,False,False,Aureococcus anophagefferens
+Smic.gene25374.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene25398.mRNA1,False,False,Setaria italica
+Smic.gene25422.mRNA1,False,False,Lupinus angustifolius
+Smic.gene25424.mRNA1,False,False,Besnoitia besnoiti
+Smic.gene25464.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene2550.mRNA1,False,True,Cannes 8 virus
+Smic.gene25509.mRNA1,False,False,Lobosporangium transversale
+Smic.gene25511.mRNA1,False,False,Sphaeroforma arctica JP610
+Smic.gene25563.mRNA1,False,False,Dictyostelium discoideum
+Smic.gene25581.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene25586.mRNA1,False,False,Chlamydomonas eustigma
+Smic.gene25592.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene25625.mRNA1,False,False,Stylonychia lemnae
+Smic.gene25748.mRNA1,False,False,Chrysochromulina tobinii
+Smic.gene25865.mRNA1,False,False,Guillardia theta CCMP2712
+Smic.gene25976.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene26000.mRNA1,False,False,Blastopirellula cremea
+Smic.gene26043.mRNA1,False,False,Besnoitia besnoiti
+Smic.gene26067.mRNA1,False,False,Cavia porcellus
+Smic.gene26071.mRNA1,False,False,Theobroma cacao
+Smic.gene26096.mRNA1,False,False,Aureococcus anophagefferens
+Smic.gene26098.mRNA1,False,False,Neobenedenia girellae
+Smic.gene26171.mRNA1,False,False,Phaeodactylum tricornutum CCAP 1055/1
+Smic.gene2625.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene26261.mRNA1,False,False,Altererythrobacter estronivorus
+Smic.gene26370.mRNA1,False,False,Heterocapsa triquetra
+Smic.gene26408.mRNA1,False,False,Moorella humiferrea
+Smic.gene26490.mRNA1,False,False,Monosiga brevicollis MX1
+Smic.gene26554.mRNA1,False,False,Desulfobacula toluolica
+Smic.gene26606.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene26616.mRNA1,False,False,Lactuca sativa
+Smic.gene26694.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene26699.mRNA1,False,False,Klebsormidium nitens
+Smic.gene26785.mRNA1,False,False,Callorhinchus milii
+Smic.gene26804.mRNA1,False,False,Thalassiosira pseudonana CCMP1335
+Smic.gene26880.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene27067.mRNA1,False,False,Bathycoccus prasinos
+Smic.gene27075.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene27087.mRNA1,False,False,Betaproteobacteria bacterium RIFCSPLOWO2_02_FULL_64_12
+Smic.gene27089.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene2709.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene27215.mRNA1,False,False,Thalassiosira pseudonana CCMP1335
+Smic.gene27256.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene2726.mRNA1,False,False,Chlamydomonas reinhardtii
+Smic.gene27285.mRNA1,False,False,Marine Group III euryarchaeote CG-Epi4
+Smic.gene2733.mRNA1,False,False,Orbicella faveolata
+Smic.gene27348.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene27417.mRNA1,False,False,Paramecium tetraurelia strain d4-2
+Smic.gene27492.mRNA1,False,False,Klebsormidium nitens
+Smic.gene2751.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene27541.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene27566.mRNA1,False,False,Thalassiosira oceanica
+Smic.gene27569.mRNA1,False,False,Galdieria sulphuraria
+Smic.gene27586.mRNA1,False,False,Micromonas commoda
+Smic.gene27627.mRNA1,False,False,Coptis japonica
+Smic.gene27697.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene27708.mRNA1,False,False,Orbicella faveolata
+Smic.gene2775.mRNA1,True,True,Wenzhou weivirus-like virus 1
+Smic.gene27945.mRNA1,False,False,Brassica oleracea var. oleracea
+Smic.gene27955.mRNA1,False,False,Symbiobacterium thermophilum
+Smic.gene27962.mRNA1,False,False,Chrysochromulina tobinii
+Smic.gene28031.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene28099.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene28100.mRNA1,False,False,Guillardia theta CCMP2712
+Smic.gene28155.mRNA1,False,False,Pithovirus sibericum
+Smic.gene2832.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene2842.mRNA1,False,False,Stentor coeruleus
+Smic.gene28431.mRNA1,False,False,Oryzias melastigma
+Smic.gene28459.mRNA1,False,False,Monodelphis domestica
+Smic.gene2849.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene2857.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene28776.mRNA1,False,False,Ostreococcus tauri
+Smic.gene2881.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene28833.mRNA1,False,False,Aureococcus anophagefferens
+Smic.gene28860.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene290.mRNA1,False,False,Calocera cornea HHB12733
+Smic.gene29006.mRNA1,False,False,Erwinia billingiae
+Smic.gene29026.mRNA1,False,False,Tritrichomonas foetus
+Smic.gene2920.mRNA1,False,False,Theobroma cacao
+Smic.gene2924.mRNA1,False,False,Prunus mume
+Smic.gene29467.mRNA1,False,False,Azospirillum thiophilum
+Smic.gene29514.mRNA1,False,False,Trichomonas vaginalis G3
+Smic.gene29650.mRNA1,False,False,Genlisea aurea
+Smic.gene2985.mRNA1,False,False,Thecamonas trahens ATCC 50062
+Smic.gene2994.mRNA1,False,False,Tortispora caseinolytica NRRL Y-17796
+Smic.gene312.mRNA1,False,False,Zea mays
+Smic.gene3240.mRNA1,False,True,Beihai narna-like virus 10
+Smic.gene3241.mRNA1,True,True,Beihai weivirus-like virus 5
+Smic.gene3253.mRNA1,False,False,Ectocarpus siliculosus
+Smic.gene3385.mRNA1,False,False,Amphimedon queenslandica
+Smic.gene3390.mRNA1,False,False,Acanthamoeba castellanii str. Neff
+Smic.gene3395.mRNA1,False,False,Lobosporangium transversale
+Smic.gene3420.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene3542.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene3573.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene3590.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene3620.mRNA1,False,False,Dictyostelium purpureum
+Smic.gene3687.mRNA1,False,False,Solanum lycopersicum
+Smic.gene3692.mRNA1,False,False,Kryptolebias marmoratus
+Smic.gene37.mRNA1,False,False,Aureococcus anophagefferens
+Smic.gene3718.mRNA1,False,False,Thalassiosira oceanica
+Smic.gene3720.mRNA1,False,False,Ostreococcus lucimarinus CCE9901
+Smic.gene3876.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene3903.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene3931.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene3940.mRNA1,False,False,Micractinium conductrix
+Smic.gene3955.mRNA1,False,False,Chrysochromulina tobinii
+Smic.gene396.mRNA1,False,False,Guillardia theta CCMP2712
+Smic.gene4031.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene4037.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene4040.mRNA1,False,False,Arabis alpina
+Smic.gene4043.mRNA1,False,False,Ostreococcus tauri
+Smic.gene4069.mRNA1,False,True,Wenzhou weivirus-like virus 1
+Smic.gene4245.mRNA1,False,False,[Candida] arabinofermentans NRRL YB-2248
+Smic.gene4277.mRNA1,False,False,Trichomonas vaginalis G3
+Smic.gene436.mRNA1,False,False,Saprolegnia parasitica CBS 223.65
+Smic.gene4372.mRNA1,False,False,Bodo saltans
+Smic.gene441.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene4416.mRNA1,False,False,Thalassiosira oceanica
+Smic.gene4456.mRNA1,True,True,Tacheng Tick Virus 6
+Smic.gene4474.mRNA1,False,False,Eutrema salsugineum
+Smic.gene4517.mRNA1,False,False,Onthophagus taurus
+Smic.gene4521.mRNA1,False,False,Alphaproteobacteria bacterium PA1
+Smic.gene4534.mRNA1,False,False,Oxalobacter formigenes
+Smic.gene4653.mRNA1,False,False,Thalassiosira oceanica
+Smic.gene4715.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene4794.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene4830.mRNA1,False,False,Eutrema salsugineum
+Smic.gene4874.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene4880.mRNA1,False,False,Albugo candida
+Smic.gene4923.mRNA1,False,False,Aureococcus anophagefferens
+Smic.gene5146.mRNA1,False,False,Only Syngen Nebraska virus 5
+Smic.gene5183.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene5234.mRNA1,False,False,Pithovirus sibericum
+Smic.gene5274.mRNA1,False,False,Amphidinium carterae
+Smic.gene5329.mRNA1,False,False,Gossypium barbadense
+Smic.gene5354.mRNA1,False,False,Chrysochromulina tobinii
+Smic.gene5406.mRNA1,False,False,Phaeodactylum tricornutum CCAP 1055/1
+Smic.gene553.mRNA1,False,False,Acanthamoeba castellanii str. Neff
+Smic.gene5618.mRNA1,False,False,Guillardia theta CCMP2712
+Smic.gene5658.mRNA1,False,False,Aureococcus anophagefferens
+Smic.gene5671.mRNA1,False,False,Hammondia hammondi
+Smic.gene5683.mRNA1,False,False,Stylophora pistillata
+Smic.gene5772.mRNA1,False,False,Oxytricha trifallax
+Smic.gene5782.mRNA1,False,False,Pfiesteria piscicida
+Smic.gene5857.mRNA1,False,False,Ipomoea nil
+Smic.gene59.mRNA1,False,False,Bodo saltans
+Smic.gene5950.mRNA1,False,False,Asparagus officinalis
+Smic.gene6011.mRNA1,False,False,Pfiesteria piscicida
+Smic.gene6014.mRNA1,False,False,Haliaeetus leucocephalus
+Smic.gene6022.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene6035.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene6041.mRNA1,False,False,Chelonia mydas
+Smic.gene6049.mRNA1,False,False,Pfiesteria piscicida
+Smic.gene6070.mRNA1,False,False,Strongylocentrotus purpuratus
+Smic.gene6082.mRNA1,False,False,Aureococcus anophagefferens
+Smic.gene6114.mRNA1,False,False,Picea sitchensis
+Smic.gene6122.mRNA1,False,False,Capitella teleta
+Smic.gene613.mRNA1,False,False,Rhizophagus irregularis DAOM 181602=DAOM 197198
+Smic.gene6150.mRNA1,False,False,Amphidinium carterae
+Smic.gene6177.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene6191.mRNA1,False,False,Lithobates catesbeianus
+Smic.gene6197.mRNA1,False,False,Acanthamoeba castellanii str. Neff
+Smic.gene6212.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene6272.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene6273.mRNA1,False,False,Monosiga brevicollis MX1
+Smic.gene6287.mRNA1,False,False,Alexandrium fundyense
+Smic.gene6296.mRNA1,False,False,Daphnia pulex
+Smic.gene631.mRNA1,False,False,Tetrahymena thermophila SB210
+Smic.gene6353.mRNA1,False,False,Chrysochromulina tobinii
+Smic.gene6394.mRNA1,False,False,Sphaeroforma arctica JP610
+Smic.gene6438.mRNA1,False,False,Heterocapsa triquetra
+Smic.gene6526.mRNA1,False,False,Sphingobacteriales bacterium 50-39
+Smic.gene6645.mRNA1,False,False,Chrysochromulina tobinii
+Smic.gene672.mRNA1,False,False,Strongylocentrotus purpuratus
+Smic.gene6747.mRNA1,False,False,Crassostrea gigas
+Smic.gene6754.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene6774.mRNA1,True,True,Wenzhou weivirus-like virus 1
+Smic.gene6846.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene6852.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene6888.mRNA1,False,False,Chrysochromulina tobinii
+Smic.gene6916.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene6949.mRNA1,False,False,Clupea harengus
+Smic.gene695.mRNA1,False,False,Arachis ipaensis
+Smic.gene6965.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene7032.mRNA1,False,False,Chlorella sorokiniana
+Smic.gene7153.mRNA1,False,False,Klebsormidium nitens
+Smic.gene72.mRNA1,False,False,Fragilariopsis cylindrus CCMP1102
+Smic.gene7216.mRNA1,False,False,Amphimedon queenslandica
+Smic.gene7262.mRNA1,False,False,Microcoleus vaginatus
+Smic.gene7297.mRNA1,False,False,Cicer arietinum
+Smic.gene7305.mRNA1,False,False,Saccharomyces cerevisiae S288C
+Smic.gene7342.mRNA1,False,False,Aegilops tauschii subsp. tauschii
+Smic.gene7346.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene7366.mRNA1,False,False,Nicotiana tabacum
+Smic.gene7375.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene741.mRNA1,False,False,Clunio marinus
+Smic.gene7432.mRNA1,False,False,Arabidopsis thaliana
+Smic.gene7479.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene7494.mRNA1,False,False,Tetrabaena socialis
+Smic.gene7508.mRNA1,False,False,Drosophila bipectinata
+Smic.gene7522.mRNA1,False,False,Dictyostelium discoideum AX4
+Smic.gene7542.mRNA1,False,False,Chlamydomonas reinhardtii
+Smic.gene7545.mRNA1,False,False,Chrysochromulina tobinii
+Smic.gene7547.mRNA1,False,False,Fistulifera solaris
+Smic.gene7551.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene7563.mRNA1,False,False,Fistulifera solaris
+Smic.gene7594.mRNA1,False,False,Aureococcus anophagefferens
+Smic.gene7673.mRNA1,False,False,Marchantia polymorpha subsp. ruderalis
+Smic.gene7765.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene7784.mRNA1,False,False,Anaeromyces robustus
+Smic.gene7835.mRNA1,False,False,Amphidinium carterae
+Smic.gene7854.mRNA1,False,True,Sputnik virophage
+Smic.gene7856.mRNA1,False,False,Gossypium raimondii
+Smic.gene7905.mRNA1,False,False,Rickettsiaceae bacterium 4572_127
+Smic.gene7913.mRNA1,False,False,Camelina sativa
+Smic.gene793.mRNA1,False,False,Plasmopara halstedii
+Smic.gene794.mRNA1,False,False,Schistosoma mansoni
+Smic.gene7993.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene809.mRNA1,False,False,Ectocarpus siliculosus
+Smic.gene8109.mRNA1,False,False,Oryza sativa Japonica Group
+Smic.gene8118.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene8124.mRNA1,False,False,Heterocapsa triquetra
+Smic.gene8197.mRNA1,False,False,Heterocapsa triquetra
+Smic.gene8212.mRNA1,False,False,Pithovirus sibericum
+Smic.gene8214.mRNA1,False,False,Malus domestica
+Smic.gene8225.mRNA1,False,False,Clupea harengus
+Smic.gene8294.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene8336.mRNA1,False,False,Prunus avium
+Smic.gene8383.mRNA1,False,False,Podospora anserina S mat+
+Smic.gene8405.mRNA1,False,False,Plasmodium gonderi
+Smic.gene8490.mRNA1,False,False,Chrysochromulina tobinii
+Smic.gene8513.mRNA1,False,False,Macrostomum lignano
+Smic.gene8519.mRNA1,False,False,Chlamydomonas reinhardtii
+Smic.gene8553.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene8585.mRNA1,False,False,Balaenoptera acutorostrata scammoni
+Smic.gene8616.mRNA1,False,False,Porphyra umbilicalis
+Smic.gene8778.mRNA1,False,False,Rhizophagus irregularis
+Smic.gene8780.mRNA1,False,False,Physcomitrella patens
+Smic.gene8861.mRNA1,False,False,Chlamydomonas reinhardtii
+Smic.gene8873.mRNA1,False,False,Bombus terrestris
+Smic.gene8886.mRNA1,False,False,Medicago truncatula
+Smic.gene8897.mRNA1,False,False,Drosophila serrata
+Smic.gene8980.mRNA1,False,False,Biomphalaria glabrata
+Smic.gene9003.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene9011.mRNA1,False,False,Guillardia theta CCMP2712
+Smic.gene9031.mRNA1,False,False,Fistulifera solaris
+Smic.gene9050.mRNA1,False,False,Latimeria chalumnae
+Smic.gene9106.mRNA1,False,False,Folsomia candida
+Smic.gene9131.mRNA1,False,False,Chlorella variabilis
+Smic.gene9135.mRNA1,False,False,Pedinophyceae sp. YPF-701
+Smic.gene9149.mRNA1,False,False,Macrostomum lignano
+Smic.gene9197.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene9273.mRNA1,False,False,Ideonella sakaiensis
+Smic.gene9433.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene9434.mRNA1,False,False,Aureococcus anophagefferens
+Smic.gene9438.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene955.mRNA1,False,False,Perkinsus marinus ATCC 50983
+Smic.gene9573.mRNA1,False,False,Agrilus planipennis
+Smic.gene9612.mRNA1,False,False,Emiliania huxleyi CCMP1516
+Smic.gene9705.mRNA1,False,False,Trichoplax adhaerens
+Smic.gene9726.mRNA1,False,False,Vitrella brassicaformis CCMP3155
+Smic.gene9742.mRNA1,False,False,Chrysochromulina tobinii
+Smic.gene9754.mRNA1,False,False,Stentor coeruleus
+Smic.gene9867.mRNA1,False,False,Heterocapsa triquetra
+Smic.gene9901.mRNA1,False,False,Ostreococcus tauri
+Smic.gene9949.mRNA1,False,False,Tupaia chinensis

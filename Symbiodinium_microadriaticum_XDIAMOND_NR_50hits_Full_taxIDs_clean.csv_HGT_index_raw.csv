@@ -1,0 +1,759 @@
+Query,Alien index (AI),AI > 30,HGT index (hU),hU >= 30,Evalue,Top species Evalue
+Smic.gene10101.mRNA1,-63.639473480898175,False,-135.6,False,2.3e-28,Thermoflexus hugenholtzii
+Smic.gene10133.mRNA1,-95.34759735261432,False,-182.2,False,3.8999999999999995e-42,Solanum lycopersicum
+Smic.gene10178.mRNA1,-460.5169825994571,False,-725.7,False,3.599999999999999e-205,Perkinsus marinus ATCC 50983
+Smic.gene10221.mRNA1,-76.92691660866195,False,-156.4,False,3.9e-34,Vitrella brassicaformis CCMP3155
+Smic.gene10248.mRNA1,-57.03399907378897,False,-126.3,False,1.7000000000000002e-25,Aureococcus anophagefferens
+Smic.gene10274.mRNA1,-124.24428484187415,False,-223.0,False,1.1e-54,Morus notabilis
+Smic.gene10297.mRNA1,-409.52367431631893,False,-637.1,False,1.3999999999999995e-178,Chrysochromulina tobinii
+Smic.gene10343.mRNA1,-218.34011872632618,False,-359.0,False,1.4999999999999997e-95,Vitrella brassicaformis CCMP3155
+Smic.gene10365.mRNA1,-241.43496252775358,False,-394.4,False,1.3999999999999998e-105,Monoraphidium neglectum
+Smic.gene10426.mRNA1,-13.388066543137334,False,-19.299999999999997,False,2.3e-16,bacterium (Candidatus Gribaldobacteria) CG_4_10_14_0_2_um_filter_41_16
+Smic.gene10515.mRNA1,-155.54616690641396,False,-269.6,False,2.7999999999999993e-68,Micromonas pusilla CCMP1545
+Smic.gene10538.mRNA1,-142.59322168096764,False,-205.70000000000002,False,1.2999999999999998e-87,Bodo saltans
+Smic.gene10548.mRNA1,18.682045508086773,False,71.2,True,7.7e-09,Beihai sobemo-like virus 6
+Smic.gene10572.mRNA1,-109.16310791057859,False,-202.6,False,3.8999999999999997e-48,Dendrobium catenatum
+Smic.gene10610.mRNA1,-24.00668018295218,False,-34.7,False,1.5e-23,Limnobacter sp. CACIAM 66H1
+Smic.gene10652.mRNA1,-102.62307741172177,False,-191.8,False,2.7e-45,Vitrella brassicaformis CCMP3155
+Smic.gene1081.mRNA1,-29.597133972301382,False,-87.4,False,1.4e-13,Hammondia hammondi
+Smic.gene10811.mRNA1,-66.51260343235984,False,-142.1,False,1.3e-29,Myotis brandtii
+Smic.gene10835.mRNA1,-59.908034412365446,False,-130.2,False,9.599999999999999e-27,Trypanosoma rangeli SC58
+Smic.gene10860.mRNA1,-460.51701859830916,False,-741.5,False,4.999999999999998e-210,Chlorella sorokiniana
+Smic.gene10870.mRNA1,-100.39745335986386,False,-189.9,False,2.5e-44,Guillardia theta CCMP2712
+Smic.gene10952.mRNA1,-10.960856882670186,False,-15.799999999999983,False,6.6e-30,Perkinsus marinus ATCC 50983
+Smic.gene10972.mRNA1,-190.93224116171183,False,-318.9,False,1.1999999999999997e-83,Vitrella brassicaformis CCMP3155
+Smic.gene11039.mRNA1,-241.07828758381484,False,-394.4,False,1.9999999999999995e-105,Karlodinium veneficum
+Smic.gene11053.mRNA1,-398.2519109081656,False,-619.0,False,1.0999999999999996e-173,Heterocapsa triquetra
+Smic.gene11083.mRNA1,-23.224301868664295,False,-77.0,False,8.2e-11,Anolis carolinensis
+Smic.gene11153.mRNA1,-42.4963537983915,False,-105.9,False,3.5e-19,Perkinsus marinus ATCC 50983
+Smic.gene11222.mRNA1,-79.67418752291745,False,-160.6,False,2.5e-35,Pygocentrus nattereri
+Smic.gene11316.mRNA1,-86.66532441083864,False,-167.9,False,2.2999999999999998e-38,Dictyostelium purpureum
+Smic.gene11477.mRNA1,-384.4364003502013,False,-600.9,False,1.0999999999999998e-167,Perkinsus marinus ATCC 50983
+Smic.gene1149.mRNA1,-215.0567043803204,False,-356.3,False,4e-94,Trifolium pratense
+Smic.gene1155.mRNA1,-76.20845162011771,False,-156.0,False,8e-34,Mucor ambiguus
+Smic.gene11625.mRNA1,-18.420680743952364,False,-26.60000000000001,False,7.5e-19,Nannocystis exedens
+Smic.gene1168.mRNA1,-62.767634511594856,False,-136.0,False,5.500000000000001e-28,Vitrella brassicaformis CCMP3155
+Smic.gene11729.mRNA1,-103.91743427751598,False,-195.7,False,7.400000000000001e-46,Guillardia theta CCMP2712
+Smic.gene11748.mRNA1,-72.07328506337537,False,-150.2,False,4.999999999999999e-32,Pyrus x bretschneideri
+Smic.gene11766.mRNA1,-304.0920551649486,False,-486.1,False,8.599999999999999e-133,Pfiesteria piscicida
+Smic.gene11858.mRNA1,-31.973827037449148,False,-91.7,False,1.3e-14,Cynara cardunculus var. scolymus
+Smic.gene11893.mRNA1,-40.08555512075722,False,-101.3,False,3.9e-18,Anolis carolinensis
+Smic.gene11896.mRNA1,-340.19480709821664,False,-535.4,False,1.7999999999999996e-148,Pedinophyceae sp. YPF-701
+Smic.gene11897.mRNA1,-284.64508279390776,False,-455.3,False,2.399999999999999e-124,Pedinophyceae sp. YPF-701
+Smic.gene1191.mRNA1,-242.17191233097194,False,-394.4,False,6.699999999999999e-106,Perkinsus marinus ATCC 50983
+Smic.gene11920.mRNA1,-16.460585959905096,False,-68.6,False,7.1e-08,Sorghum bicolor
+Smic.gene11940.mRNA1,-15.781623414337107,False,-68.9,False,1.4e-07,Pythium insidiosum
+Smic.gene11943.mRNA1,-172.05202808838104,False,-293.5,False,1.8999999999999995e-75,Vitrella brassicaformis CCMP3155
+Smic.gene11951.mRNA1,-153.11005042079537,False,-267.3,False,3.1999999999999996e-67,Ectocarpus siliculosus
+Smic.gene11999.mRNA1,-70.84950963175325,False,-147.5,False,1.6999999999999998e-31,Tetraselmis indica
+Smic.gene12039.mRNA1,-277.69650552040537,False,-446.0,False,2.4999999999999995e-121,Ectocarpus siliculosus
+Smic.gene12075.mRNA1,-162.41883086558482,False,-280.4,False,2.8999999999999995e-71,Macrostomum lignano
+Smic.gene12097.mRNA1,-108.12618919091582,False,-201.1,False,1.0999999999999999e-47,Vitrella brassicaformis CCMP3155
+Smic.gene12124.mRNA1,-184.42995099083785,False,-311.6,False,8e-81,Klebsormidium nitens
+Smic.gene12129.mRNA1,-32.05386974512268,False,-87.8,False,1.2e-14,Chrysanthemum x morifolium
+Smic.gene12132.mRNA1,-24.83781310648603,False,-35.89999999999999,False,4.9000000000000004e-30,Ostreococcus tauri
+Smic.gene12221.mRNA1,-130.1487380119925,False,-232.3,False,2.9999999999999994e-57,Aureococcus anophagefferens
+Smic.gene12227.mRNA1,-39.741783581654396,False,-101.3,False,5.5e-18,Acropora digitifera
+Smic.gene12255.mRNA1,-350.6091202745188,False,-553.5,False,5.399999999999999e-153,Chrysochromulina tobinii
+Smic.gene12327.mRNA1,-126.69347340906006,False,-226.9,False,9.5e-56,Selaginella moellendorffii
+Smic.gene1234.mRNA1,-71.53096077255,False,-149.8,False,8.599999999999999e-32,Guillardia theta CCMP2712
+Smic.gene1238.mRNA1,-214.38887500774476,False,-354.4,False,7.799999999999998e-94,Emiliania huxleyi CCMP1516
+Smic.gene1239.mRNA1,-244.3617019298206,False,-399.4,False,7.499999999999998e-107,Perkinsus marinus ATCC 50983
+Smic.gene12396.mRNA1,-53.47028276262904,False,-120.6,False,5.999999999999999e-24,Protobothrops mucrosquamatus
+Smic.gene12465.mRNA1,-70.28152559414731,False,-147.5,False,3e-31,[Candida] boidinii
+Smic.gene12467.mRNA1,-125.25588575355262,False,-226.1,False,4e-55,Vitrella brassicaformis CCMP3155
+Smic.gene12469.mRNA1,-199.13098062200953,False,-331.6,False,3.2999999999999996e-87,Ostreococcus tauri
+Smic.gene12578.mRNA1,-371.4093471526013,False,-581.3,False,4.999999999999999e-162,Heterocapsa triquetra
+Smic.gene12600.mRNA1,-85.52415250775172,False,-169.1,False,7.2e-38,Amborella trichopoda
+Smic.gene1262.mRNA1,-174.40868040264536,False,-297.7,False,1.8e-76,Perkinsus marinus ATCC 50983
+Smic.gene12644.mRNA1,-44.64071488617065,False,-106.7,False,4.1e-20,Nematostella vectensis
+Smic.gene1274.mRNA1,-76.38578563540064,False,-154.8,False,6.7e-34,Camponotus floridanus
+Smic.gene12749.mRNA1,-85.01332688398574,False,-166.8,False,1.2e-37,Copidosoma floridanum
+Smic.gene12751.mRNA1,-27.78184400566313,False,-86.7,False,8.600000000000001e-13,Zea mays
+Smic.gene12756.mRNA1,-19.33697147582652,False,-73.2,False,4e-09,Vitrella brassicaformis CCMP3155
+Smic.gene12779.mRNA1,-38.22765584902462,False,-99.0,False,2.5e-17,Drosophila busckii
+Smic.gene1284.mRNA1,13.633189001170315,False,19.700000000000003,False,1.1999999999999998e-23,Only Syngen Nebraska virus 5
+Smic.gene12857.mRNA1,-135.8625708225022,False,-241.5,False,9.9e-60,Vitrella brassicaformis CCMP3155
+Smic.gene12867.mRNA1,-251.41255805244344,False,-408.7,False,6.499999999999998e-110,Coccomyxa subellipsoidea C-169
+Smic.gene12868.mRNA1,-6.3829434132414065,False,-9.200000000000003,False,1.2e-20,Emiliania huxleyi CCMP1516
+Smic.gene12884.mRNA1,-30.945207120601076,False,-44.69999999999999,False,1.2e-21,Emiliania huxleyi CCMP1516
+Smic.gene12895.mRNA1,-140.27536911584284,False,-247.7,False,1.1999999999999999e-61,Perkinsus marinus ATCC 50983
+Smic.gene12923.mRNA1,-23.14238474619641,False,-77.4,False,8.9e-11,Solemya velum gill symbiont
+Smic.gene12924.mRNA1,-410.6366753424391,False,-636.7,False,4.5999999999999984e-179,Cystoisospora suis
+Smic.gene12929.mRNA1,-259.7221118790814,False,-419.5,False,1.5999999999999998e-113,Emiliania huxleyi CCMP1516
+Smic.gene1294.mRNA1,-92.79655090032178,False,-179.9,False,5e-41,Pythium insidiosum
+Smic.gene12944.mRNA1,-44.85777939140848,False,-109.4,False,3.3e-20,Vitrella brassicaformis CCMP3155
+Smic.gene13059.mRNA1,-24.02915303880424,False,-34.7,False,6.600000000000001e-25,Ostreococcus tauri
+Smic.gene13097.mRNA1,-391.74057090177166,False,-610.1,False,7.399999999999998e-171,Vitrella brassicaformis CCMP3155
+Smic.gene13130.mRNA1,-136.1402025591005,False,-241.1,False,7.5e-60,Fistulifera solaris
+Smic.gene13160.mRNA1,-139.23391524101467,False,-246.5,False,3.4e-61,Fragilariopsis cylindrus CCMP1102
+Smic.gene13167.mRNA1,-51.79630632905737,False,-120.9,False,3.2000000000000003e-23,Ensifer aridi
+Smic.gene13261.mRNA1,-67.35478619208027,False,-142.5,False,5.6e-30,Fistulifera solaris
+Smic.gene13273.mRNA1,-8.253775740964088,False,-12.0,False,1.9e-18,Ostreococcus tauri
+Smic.gene1334.mRNA1,-25.444969839190453,False,-82.4,False,8.900000000000001e-12,Paratrypanosoma confusum
+Smic.gene13371.mRNA1,-460.51701859880916,False,-1148.3,False,0.0,Auxenochlorella protothecoides
+Smic.gene13373.mRNA1,5.095793102436559,False,7.399999999999977,False,2.9999999999999995e-36,Aureococcus anophagefferens virus
+Smic.gene13427.mRNA1,-80.40815669799764,False,-161.4,False,1.1999999999999998e-35,Chlorella variabilis
+Smic.gene13432.mRNA1,-125.64892834166223,False,-227.3,False,2.6999999999999997e-55,Vitrella brassicaformis CCMP3155
+Smic.gene13437.mRNA1,-19.288181311657087,False,-72.4,False,4.1999999999999996e-09,Bos mutus
+Smic.gene13451.mRNA1,-139.7157533279074,False,-245.7,False,2.1e-61,Vitrella brassicaformis CCMP3155
+Smic.gene13455.mRNA1,-29.671241944455105,False,-88.2,False,1.3e-13,Drosophila serrata
+Smic.gene13482.mRNA1,-212.49175502285885,False,-350.1,False,5.2e-93,Aureococcus anophagefferens
+Smic.gene13529.mRNA1,7.740664401917236,False,11.200000000000003,False,2e-18,Organic Lake phycodnavirus
+Smic.gene13554.mRNA1,-5.345570251398584,False,-7.700000000000003,False,3.1e-12,Stappia sp. ES.058
+Smic.gene13565.mRNA1,-460.51701859880916,False,-949.9,False,5.499999999999998e-273,Besnoitia besnoiti
+Smic.gene13578.mRNA1,-77.3716024299234,False,-157.9,False,2.5e-34,Vitrella brassicaformis CCMP3155
+Smic.gene13599.mRNA1,-16.292449038103097,False,-23.5,False,6.3e-13,Paramecium tetraurelia strain d4-2
+Smic.gene1363.mRNA1,-149.89117459592717,False,-261.2,False,7.999999999999999e-66,Populus euphratica
+Smic.gene13633.mRNA1,-144.88053930183094,False,-252.7,False,1.1999999999999998e-63,Thelohanellus kitauei
+Smic.gene13641.mRNA1,-23.869821000234985,False,-78.2,False,4.3e-11,Aplysia californica
+Smic.gene13656.mRNA1,-136.1009818459472,False,-240.7,False,7.799999999999999e-60,Hippocampus comes
+Smic.gene13671.mRNA1,-99.18551238588874,False,-186.8,False,8.399999999999999e-44,Amphimedon queenslandica
+Smic.gene13685.mRNA1,-40.165597828430755,False,-102.8,False,3.6e-18,Tetrapisispora blattae CBS 6284
+Smic.gene13699.mRNA1,-304.9910543997127,False,-485.7,False,3.499999999999999e-133,Orbicella faveolata
+Smic.gene13745.mRNA1,-89.8210213340853,False,-175.6,False,9.8e-40,Physcomitrella patens
+Smic.gene13780.mRNA1,-73.5004014190155,False,-152.1,False,1.1999999999999999e-32,Chrysochromulina tobinii
+Smic.gene13782.mRNA1,-4.02535169073515,False,-5.799999999999997,False,2.5e-08,Desulfobacula toluolica
+Smic.gene13828.mRNA1,-42.20155425817085,False,-104.0,False,4.7e-19,Gallus gallus
+Smic.gene13949.mRNA1,-261.18636778167104,False,-421.8,False,3.7e-114,Perkinsus marinus ATCC 50983
+Smic.gene13979.mRNA1,-460.51701859880916,False,-1353.2,False,0.0,Acanthamoeba castellanii str. Neff
+Smic.gene13980.mRNA1,-358.8668022704499,False,-563.9,False,1.3999999999999996e-156,Chrysochromulina tobinii
+Smic.gene13983.mRNA1,-23.99343495620216,False,-79.0,False,3.8e-11,Scleropages formosus
+Smic.gene14019.mRNA1,-9.877512066132866,False,-14.200000000000003,False,3.9e-19,Chlamydiae bacterium RIFCSPHIGHO2_01_FULL_44_39
+Smic.gene14030.mRNA1,-149.66803104461297,False,-260.8,False,1e-65,Saprolegnia diclina VS20
+Smic.gene14043.mRNA1,-18.7491848109244,False,-72.4,False,7.2e-09,Acanthamoeba castellanii str. Neff
+Smic.gene14050.mRNA1,-216.1806344769728,False,-357.8,False,1.2999999999999997e-94,Vitrella brassicaformis CCMP3155
+Smic.gene14077.mRNA1,-130.1159481891695,False,-233.4,False,3.1e-57,Gonium pectorale
+Smic.gene14133.mRNA1,-376.01451733858937,False,-588.2,False,4.999999999999999e-164,Raphanus sativus
+Smic.gene14153.mRNA1,-133.54993539365464,False,-236.5,False,1e-58,Guillardia theta CCMP2712
+Smic.gene14154.mRNA1,-115.88427723398031,False,-211.1,False,4.7e-51,Ectocarpus siliculosus
+Smic.gene14185.mRNA1,-47.712433066702566,False,-112.8,False,1.9000000000000003e-21,Gossypium raimondii
+Smic.gene14192.mRNA1,-26.67550967090111,False,-80.9,False,2.6000000000000002e-12,Fistulifera solaris
+Smic.gene14241.mRNA1,-285.78191629539606,False,-458.0,False,7.699999999999998e-125,Vitrella brassicaformis CCMP3155
+Smic.gene14266.mRNA1,-181.90422234652962,False,-308.9,False,9.999999999999997e-80,Lingula anatina
+Smic.gene14359.mRNA1,-13.093375840531078,False,-18.900000000000006,False,1.4000000000000003e-17,Helicobacter bilis
+Smic.gene14370.mRNA1,-310.512515317575,False,-493.4,False,1.3999999999999998e-135,Emiliania huxleyi CCMP1516
+Smic.gene14393.mRNA1,-106.26957114933927,False,-153.3,False,5e-57,Bodo saltans
+Smic.gene144.mRNA1,-51.08765496196146,False,-119.8,False,6.5e-23,Panicum hallii
+Smic.gene14412.mRNA1,-413.77216955836826,False,-643.7,False,1.9999999999999996e-180,Ostreococcus tauri
+Smic.gene14424.mRNA1,-106.86052281758455,False,-200.7,False,3.9000000000000003e-47,Cryptosporidium andersoni
+Smic.gene14428.mRNA1,-143.58125631770065,False,-250.8,False,4.3999999999999994e-63,Pythium insidiosum
+Smic.gene14448.mRNA1,-259.786650400219,False,-421.0,False,1.4999999999999998e-113,Vitrella brassicaformis CCMP3155
+Smic.gene14507.mRNA1,8.021405445014793,False,11.599999999999994,False,2.2e-32,Klosneuvirus KNV1
+Smic.gene14511.mRNA1,1.631416819152875,False,2.3000000000000114,False,4.5e-38,Catovirus CTV1
+Smic.gene14516.mRNA1,-258.13799177463164,False,-417.9,False,7.799999999999997e-113,Heterocapsa triquetra
+Smic.gene14524.mRNA1,-27.93212620871247,False,-85.1,False,7.4e-13,Lupinus angustifolius
+Smic.gene14540.mRNA1,-41.11005943727161,False,-102.1,False,1.3999999999999999e-18,Saccoglossus kowalevskii
+Smic.gene14594.mRNA1,-76.3000188136432,False,-154.5,False,7.299999999999999e-34,Rhizosolenia imbricata
+Smic.gene146.mRNA1,-201.93434100291609,False,-334.3,False,2e-88,Pfiesteria piscicida
+Smic.gene14625.mRNA1,-16.316546589682158,False,-67.4,False,8.199999999999999e-08,Boleophthalmus pectinirostris
+Smic.gene14631.mRNA1,-113.56063873178844,False,-209.1,False,4.8e-50,Emiliania huxleyi CCMP1516
+Smic.gene1465.mRNA1,-16.8556945940891,False,-24.299999999999997,False,1.1000000000000001e-18,Paramecium tetraurelia strain d4-2
+Smic.gene1466.mRNA1,-14.972963346655312,False,-21.60000000000001,False,1.1e-17,Paramecium tetraurelia strain d4-2
+Smic.gene1467.mRNA1,-207.83049537021972,False,-344.7,False,5.499999999999999e-91,Pythium insidiosum
+Smic.gene14726.mRNA1,-77.70010649689543,False,-155.6,False,1.8e-34,Streptoalloteichus hindustanus
+Smic.gene14745.mRNA1,-5.327304903421288,False,-7.700000000000003,False,3.4000000000000003e-09,Streptosporangium subroseum
+Smic.gene14747.mRNA1,-20.064020208062146,False,-28.89999999999999,False,2.8999999999999996e-23,Vitrella brassicaformis CCMP3155
+Smic.gene14797.mRNA1,-81.00599369875326,False,-160.6,False,6.6e-36,Stentor coeruleus
+Smic.gene14808.mRNA1,-53.826957706567775,False,-122.1,False,4.2e-24,Karlodinium veneficum
+Smic.gene14826.mRNA1,-59.604848153377695,False,-130.6,False,1.3e-26,Rhizophagus irregularis DAOM 181602=DAOM 197198
+Smic.gene14849.mRNA1,-26.104964812433497,False,-82.0,False,4.6e-12,Oryzias melastigma
+Smic.gene14910.mRNA1,-8.006367567650244,False,-11.5,False,2e-17,Stentor coeruleus
+Smic.gene14937.mRNA1,-42.159881561770284,False,-104.4,False,4.9e-19,Drosophila elegans
+Smic.gene14979.mRNA1,-151.5006125083613,False,-263.1,False,1.5999999999999996e-66,Vitrella brassicaformis CCMP3155
+Smic.gene14987.mRNA1,-56.03857102135609,False,-126.7,False,4.6e-25,Achlya hypogyna
+Smic.gene15008.mRNA1,-29.75128465212864,False,-85.9,False,1.2e-13,Achlya hypogyna
+Smic.gene15016.mRNA1,-217.91267471149925,False,-359.0,False,2.2999999999999993e-95,Olea europaea var. sylvestris
+Smic.gene15038.mRNA1,-70.18621541434298,False,-147.1,False,3.3e-31,Trichoplax adhaerens
+Smic.gene15116.mRNA1,-114.06454391270985,False,-209.1,False,2.8999999999999996e-50,Ectocarpus siliculosus
+Smic.gene15134.mRNA1,-13.614839862502123,False,-19.69999999999999,False,5.499999999999999e-72,Chlamydomonas reinhardtii
+Smic.gene15135.mRNA1,-60.91703454234386,False,-132.5,False,3.5e-27,Stentor coeruleus
+Smic.gene1515.mRNA1,8.81947406328917,False,12.699999999999989,False,3.4e-15,Mycobacterium virus Acadian
+Smic.gene15159.mRNA1,-122.5313062504992,False,-222.2,False,6.1e-54,Hydra vulgaris
+Smic.gene15164.mRNA1,-49.91493470113963,False,-117.5,False,2.1000000000000003e-22,Cryptosporidium andersoni
+Smic.gene15166.mRNA1,-73.99743372064916,False,-153.3,False,7.299999999999999e-33,Perkinsus marinus ATCC 50983
+Smic.gene15195.mRNA1,-144.3209235138955,False,-252.3,False,2.0999999999999996e-63,Aureococcus anophagefferens
+Smic.gene15196.mRNA1,-46.49798896250933,False,-111.7,False,6.3999999999999996e-21,Phalaenopsis equestris
+Smic.gene15208.mRNA1,-430.4881022100821,False,-666.8,False,1.0999999999999999e-187,Perkinsus marinus ATCC 50983
+Smic.gene15375.mRNA1,-115.50031833109311,False,-211.8,False,6.899999999999999e-51,Biomphalaria glabrata
+Smic.gene15393.mRNA1,-354.1926392129749,False,-556.2,False,1.4999999999999998e-154,Phaeodactylum tricornutum CCAP 1055/1
+Smic.gene15400.mRNA1,-341.77684603646264,False,-538.9,False,3.6999999999999986e-149,Perkinsus marinus ATCC 50983
+Smic.gene15469.mRNA1,-218.7864058289546,False,-361.3,False,9.599999999999997e-96,Aureococcus anophagefferens
+Smic.gene15471.mRNA1,-52.95945713886305,False,-118.6,False,1e-23,Macrostomum lignano
+Smic.gene15477.mRNA1,-33.203775328178345,False,-91.7,False,3.8e-15,Trichechus manatus latirostris
+Smic.gene1548.mRNA1,-187.45100107237616,False,-315.5,False,3.899999999999999e-82,Perkinsus marinus ATCC 50983
+Smic.gene15521.mRNA1,-0.5520685823000377,False,-0.7999999999999972,False,1.8999999999999998e-16,Candidatus Puniceispirillum sp. TMED52
+Smic.gene15650.mRNA1,-135.9803538581586,False,-241.5,False,8.8e-60,Aureococcus anophagefferens
+Smic.gene15704.mRNA1,-119.82873551516161,False,-218.4,False,9.1e-53,Karlodinium veneficum
+Smic.gene15718.mRNA1,-38.35548922053451,False,-101.7,False,2.2e-17,Trichomonas vaginalis G3
+Smic.gene15719.mRNA1,-52.37167047396093,False,-121.7,False,1.8e-23,Astyanax mexicanus
+Smic.gene1576.mRNA1,-11.695247021764182,False,-17.0,False,1.5e-23,Klebsormidium nitens
+Smic.gene158.mRNA1,-41.44653167389282,False,-59.79999999999998,False,1.1999999999999998e-27,Aureococcus anophagefferens
+Smic.gene15861.mRNA1,-73.42629344686179,False,-106.0,False,8.399999999999999e-44,Aquimarina muelleri
+Smic.gene15863.mRNA1,-246.93872386851643,False,-400.6,False,5.6999999999999985e-108,Aureococcus anophagefferens
+Smic.gene1589.mRNA1,77.18928087312943,True,111.3,True,4.7999999999999996e-52,Wenzhou weivirus-like virus 1
+Smic.gene15906.mRNA1,-72.22410795310995,False,-147.9,False,4.2999999999999994e-32,Stentor coeruleus
+Smic.gene16025.mRNA1,-54.16342994318899,False,-121.7,False,2.9999999999999996e-24,Scleropages formosus
+Smic.gene16096.mRNA1,-4.802529620146586,False,-6.8999999999999915,False,5.5e-12,Acanthaster planci
+Smic.gene16180.mRNA1,-274.2953081387432,False,-441.0,False,7.499999999999998e-120,Vitrella brassicaformis CCMP3155
+Smic.gene16250.mRNA1,-48.046802253127,False,-69.4,False,3.3999999999999996e-28,Aureococcus anophagefferens
+Smic.gene16292.mRNA1,-62.49830157781127,False,-135.6,False,7.200000000000001e-28,Cystoisospora suis
+Smic.gene16306.mRNA1,-5.0619285884838074,False,-7.299999999999997,False,3.8e-09,Chryseobacterium taichungense
+Smic.gene16322.mRNA1,-115.65688739178465,False,-213.4,False,5.899999999999999e-51,Daucus carota subsp. sativus
+Smic.gene16327.mRNA1,-158.472906308481,False,-273.5,False,1.4999999999999997e-69,Vitrella brassicaformis CCMP3155
+Smic.gene16353.mRNA1,-36.371357858658996,False,-95.9,False,1.6e-16,Phytophthora nicotianae
+Smic.gene16435.mRNA1,-30.54979234834641,False,-88.2,False,5.400000000000001e-14,Spinacia oleracea
+Smic.gene16513.mRNA1,-68.2890954294571,False,-143.3,False,2.2000000000000002e-30,Capitella teleta
+Smic.gene16532.mRNA1,-47.13051152125284,False,-112.8,False,3.4e-21,Durio zibethinus
+Smic.gene16550.mRNA1,-90.18648110757977,False,-175.6,False,6.8e-40,Vitrella brassicaformis CCMP3155
+Smic.gene16564.mRNA1,-20.851099208456297,False,-74.3,False,8.800000000000001e-10,Aegilops tauschii subsp. tauschii
+Smic.gene16570.mRNA1,-22.495222678878285,False,-78.2,False,1.7e-10,Entomoplasma somnilux
+Smic.gene16571.mRNA1,-294.5485703464439,False,-470.3,False,1.1999999999999997e-128,Vitrella brassicaformis CCMP3155
+Smic.gene16651.mRNA1,-135.5901562221812,False,-240.7,False,1.2999999999999998e-59,Selaginella moellendorffii
+Smic.gene1666.mRNA1,-109.93629779881208,False,-202.6,False,1.8e-48,Elaeis guineensis
+Smic.gene16664.mRNA1,-51.41189463014704,False,-120.2,False,4.7e-23,Halalkalicoccus paucihalophilus
+Smic.gene16731.mRNA1,-141.88480702827692,False,-249.2,False,2.4e-62,Fragilariopsis cylindrus CCMP1102
+Smic.gene16736.mRNA1,-151.18215877724273,False,-264.6,False,2.1999999999999998e-66,Nannochloropsis gaditana
+Smic.gene16769.mRNA1,-99.03136170606149,False,-186.4,False,9.799999999999999e-44,Lottia gigantea
+Smic.gene16853.mRNA1,-160.98028581412106,False,-232.3,False,2.1999999999999998e-120,Cladocopium sp. C3
+Smic.gene16857.mRNA1,-284.38914941977055,False,-456.4,False,3.0999999999999994e-124,Macrostomum lignano
+Smic.gene16956.mRNA1,-216.1806344769728,False,-355.5,False,1.2999999999999997e-94,Perkinsus marinus ATCC 50983
+Smic.gene17019.mRNA1,-150.94099672042586,False,-263.5,False,2.799999999999999e-66,Vitrella brassicaformis CCMP3155
+Smic.gene17073.mRNA1,-151.43998788654486,False,-261.9,False,1.6999999999999997e-66,Pinus massoniana
+Smic.gene17099.mRNA1,-203.0582710995685,False,-339.0,False,6.499999999999999e-89,Chlamydomonas reinhardtii
+Smic.gene17177.mRNA1,-82.10460598742138,False,-164.5,False,2.2e-36,Candidatus Eisenbacteria bacterium RBG_16_71_46
+Smic.gene17210.mRNA1,-52.17099977849878,False,-118.6,False,2.2000000000000002e-23,Hammondia hammondi
+Smic.gene17228.mRNA1,-301.8871085415185,False,-480.3,False,7.799999999999998e-132,Perkinsus marinus ATCC 50983
+Smic.gene17229.mRNA1,-121.24855256832015,False,-220.3,False,2.1999999999999997e-53,Acanthamoeba castellanii str. Neff
+Smic.gene17234.mRNA1,-138.0597953998384,False,-244.6,False,1.1e-60,Perkinsus marinus ATCC 50983
+Smic.gene17248.mRNA1,-33.093641533767865,False,-47.7,False,1.3999999999999998e-20,Vitrella brassicaformis CCMP3155
+Smic.gene17298.mRNA1,-445.78521690897077,False,-687.6,False,2.4999999999999992e-194,Vitrella brassicaformis CCMP3155
+Smic.gene17304.mRNA1,-97.75839603024859,False,-185.3,False,3.5e-43,Guillardia theta CCMP2712
+Smic.gene1734.mRNA1,-81.50676898666575,False,-161.8,False,4e-36,Thalassiosira oceanica
+Smic.gene17352.mRNA1,-201.4037127518539,False,-336.3,False,3.399999999999999e-88,Vitrella brassicaformis CCMP3155
+Smic.gene17354.mRNA1,-83.07939292597713,False,-162.9,False,8.3e-37,Cyanidioschyzon merolae strain 10D
+Smic.gene17467.mRNA1,-174.30331988698754,False,-295.8,False,1.9999999999999995e-76,Vitrella brassicaformis CCMP3155
+Smic.gene17476.mRNA1,18.17284458004778,False,26.19999999999999,False,4.0999999999999994e-25,Only Syngen Nebraska virus 5
+Smic.gene17522.mRNA1,-80.7768078329831,False,-160.6,False,8.300000000000001e-36,Crypthecodinium cohnii
+Smic.gene17525.mRNA1,-70.54722875988031,False,-146.0,False,2.3e-31,Monosiga brevicollis MX1
+Smic.gene17532.mRNA1,-3.2137344253677824,False,-4.6000000000000085,False,3.9e-14,Candidatus Nealsonbacteria bacterium CG10_big_fil_rev_8_21_14_0_10_36_23
+Smic.gene17537.mRNA1,-460.51701859880916,False,-1031.9,False,1.5999999999999992e-297,Crypthecodinium cohnii
+Smic.gene17541.mRNA1,-460.51701859880916,False,-1016.1,False,9.599999999999994e-293,Vitrella brassicaformis CCMP3155
+Smic.gene17550.mRNA1,-39.791108648216905,False,-57.400000000000006,False,8.899999999999999e-29,Phytophthora sojae
+Smic.gene17610.mRNA1,-141.76702399262055,False,-250.4,False,2.7000000000000006e-62,Klebsormidium nitens
+Smic.gene17629.mRNA1,-313.05626246738586,False,-497.3,False,1.0999999999999999e-136,Pfiesteria piscicida
+Smic.gene17643.mRNA1,-460.51282739419065,False,-717.6,False,4.1999999999999983e-203,Perkinsus marinus ATCC 50983
+Smic.gene17665.mRNA1,-119.88857551551763,False,-173.0,False,1.1999999999999999e-59,Fragilariopsis cylindrus CCMP1102
+Smic.gene17693.mRNA1,-247.84628092042183,False,-402.5,False,2.2999999999999996e-108,Cryptosporidium meleagridis
+Smic.gene17722.mRNA1,-405.25497636695206,False,-629.4,False,9.999999999999996e-177,Thalassiosira pseudonana CCMP1335
+Smic.gene17744.mRNA1,-149.8664819833368,False,-261.2,False,8.199999999999998e-66,Hydrocoleum sp. CS-953
+Smic.gene17770.mRNA1,-24.040581734627864,False,-34.599999999999994,False,8.699999999999997e-68,Emiliania huxleyi CCMP1516
+Smic.gene17829.mRNA1,-90.32845136885015,False,-174.5,False,5.9000000000000005e-40,Helianthus annuus
+Smic.gene17874.mRNA1,-126.23671500656435,False,-226.5,False,1.4999999999999999e-55,Chlamydomonas reinhardtii
+Smic.gene1789.mRNA1,-45.64623675177275,False,-109.4,False,1.4999999999999998e-20,Heterocapsa triquetra
+Smic.gene1801.mRNA1,-51.59848058572745,False,-120.6,False,3.9e-23,Chlamydiae bacterium RIFCSPHIGHO2_01_FULL_44_39
+Smic.gene18085.mRNA1,-177.11673060374756,False,-300.4,False,1.1999999999999998e-77,Perkinsus marinus ATCC 50983
+Smic.gene18097.mRNA1,37.534508668464674,True,99.4,True,5e-17,Beihai weivirus-like virus 4
+Smic.gene18136.mRNA1,-25.50278941007928,False,-82.4,False,8.4e-12,Proteobacteria bacterium
+Smic.gene18143.mRNA1,-202.0397015185739,False,-338.2,False,1.7999999999999997e-88,Vitrella brassicaformis CCMP3155
+Smic.gene18164.mRNA1,-132.4852246566622,False,-236.1,False,2.8999999999999995e-58,Biomphalaria glabrata
+Smic.gene18170.mRNA1,-62.25317911977829,False,-133.7,False,9.2e-28,Wickerhamiella sorbophila
+Smic.gene18191.mRNA1,-346.74874050224247,False,-740.8,False,3.999999999999998e-273,Porphyra umbilicalis
+Smic.gene18214.mRNA1,-136.8201045129104,False,-243.4,False,3.8e-60,Catenaria anguillulae PL171
+Smic.gene18241.mRNA1,-267.99146890659307,False,-431.8,False,4.099999999999999e-117,Perkinsus marinus ATCC 50983
+Smic.gene18281.mRNA1,-395.0150165777947,False,-614.8,False,2.799999999999999e-172,Vitrella brassicaformis CCMP3155
+Smic.gene18282.mRNA1,-59.68489086105123,False,-129.4,False,1.2e-26,Nicotiana sylvestris
+Smic.gene18352.mRNA1,-21.614863956230195,False,-73.9,False,4.0999999999999993e-10,Plutella xylostella
+Smic.gene18427.mRNA1,-180.94871090150218,False,-306.6,False,2.5999999999999996e-79,Emiliania huxleyi CCMP1516
+Smic.gene18433.mRNA1,-154.29340393791858,False,-268.1,False,9.799999999999998e-68,Rhodotorula taiwanensis
+Smic.gene18446.mRNA1,-178.8596999088062,False,-301.2,False,2.0999999999999998e-78,Erinaceus europaeus
+Smic.gene18498.mRNA1,-425.2850950233385,False,-659.1,False,1.9999999999999993e-185,Perkinsus marinus ATCC 50983
+Smic.gene185.mRNA1,-20.292482920853956,False,-29.200000000000017,False,1.9999999999999997e-66,Chrysochromulina tobinii
+Smic.gene18505.mRNA1,-60.73471298554991,False,-134.0,False,4.1999999999999996e-27,Salinispora pacifica
+Smic.gene18562.mRNA1,-143.49424494071104,False,-252.3,False,4.799999999999999e-63,Guillardia theta CCMP2712
+Smic.gene18593.mRNA1,-460.51701859880916,False,-1314.3,False,0.0,Basidiobolus meristosporus CBS 931.73
+Smic.gene18607.mRNA1,-209.12977835434998,False,-347.1,False,1.4999999999999998e-91,Vitrella brassicaformis CCMP3155
+Smic.gene18610.mRNA1,-46.31306662401532,False,-112.8,False,7.7e-21,Oxytricha trifallax
+Smic.gene18619.mRNA1,-89.21303196186567,False,-172.9,False,1.8e-39,Stentor coeruleus
+Smic.gene18656.mRNA1,-143.2879085077132,False,-252.3,False,5.9e-63,Perkinsus marinus ATCC 50983
+Smic.gene18717.mRNA1,-13.027053197600004,False,-63.5,False,2.2e-06,Sinocyclocheilus rhinocerous
+Smic.gene18719.mRNA1,-49.027631506138725,False,-115.5,False,5.099999999999999e-22,Eremothecium cymbalariae DBVPG#7215
+Smic.gene18753.mRNA1,-460.51701859880916,False,-788.9,False,2.099999999999999e-224,Perkinsus marinus ATCC 50983
+Smic.gene18753.mRNASmic.gene18778.mRNA1,-454.45091050870536,False,-701.0,False,4.299999999999997e-198,Oryza sativa Japonica Group
+Smic.gene18778.mRNA1,-460.51701859880916,False,-772.7,False,1.1999999999999993e-219,Monoraphidium neglectum
+Smic.gene18780.mRNA1,-107.38859024778505,False,-199.5,False,2.3e-47,Clunio marinus
+Smic.gene18781.mRNA1,-211.95436237170816,False,-349.7,False,8.899999999999998e-93,Aedes albopictus
+Smic.gene18794.mRNA1,-102.62307741172177,False,-193.0,False,2.7e-45,Emiliania huxleyi CCMP1516
+Smic.gene18803.mRNA1,-44.64071488617065,False,-107.5,False,4.1e-20,Guillardia theta CCMP2712
+Smic.gene18831.mRNA1,-136.56587037452616,False,-241.5,False,4.8999999999999993e-60,Vitrella brassicaformis CCMP3155
+Smic.gene18873.mRNA1,-164.42515014243568,False,-282.0,False,3.899999999999999e-72,Karlodinium veneficum
+Smic.gene18879.mRNA1,-232.7354477795434,False,-380.2,False,8.399999999999998e-102,Euryarchaeota archaeon TMED248
+Smic.gene19034.mRNA1,-83.85814424382923,False,-120.89999999999998,False,1.5999999999999998e-106,Vitrella brassicaformis CCMP3155
+Smic.gene19065.mRNA1,-28.38604370020658,False,-85.5,False,4.7e-13,Centruroides sculpturatus
+Smic.gene19160.mRNA1,-16.811242831518264,False,-68.6,False,5e-08,Cyprinodon variegatus
+Smic.gene19168.mRNA1,-12.562747589468906,False,-18.200000000000003,False,5.6e-30,Genlisea aurea
+Smic.gene19233.mRNA1,-169.92129325231363,False,-290.8,False,1.6e-74,Thalassiosira pseudonana CCMP1335
+Smic.gene19249.mRNA1,52.37167047396093,True,118.6,True,1.8e-23,Beihai sobemo-like virus 4
+Smic.gene19250.mRNA1,44.690725306745314,True,108.2,True,3.9e-20,Beihai weivirus-like virus 3
+Smic.gene19267.mRNA1,-108.57817431465888,False,-201.4,False,7e-48,Hydra vulgaris
+Smic.gene19312.mRNA1,-185.59310180064355,False,-314.3,False,2.4999999999999994e-81,Vitrella brassicaformis CCMP3155
+Smic.gene19364.mRNA1,-126.64218011467251,False,-228.8,False,1e-55,Emiliania huxleyi CCMP1516
+Smic.gene19383.mRNA1,-460.5170185987831,False,-744.6,False,2.5999999999999987e-211,Neolamprologus brichardi
+Smic.gene19440.mRNA1,-308.62978407014117,False,-490.3,False,9.199999999999997e-135,Nannochloropsis gaditana
+Smic.gene19454.mRNA1,-292.4283068102438,False,-467.6,False,9.999999999999996e-128,Strigomonas culicis
+Smic.gene19469.mRNA1,-306.14850718840376,False,-486.5,False,1.0999999999999996e-133,Micractinium conductrix
+Smic.gene19524.mRNA1,-34.95429183887235,False,-94.4,False,6.6e-16,Guillardia theta CCMP2712
+Smic.gene19640.mRNA1,-81.3670070442906,False,-161.4,False,4.599999999999999e-36,Stentor coeruleus
+Smic.gene19660.mRNA1,-272.52602152536724,False,-439.1,False,4.399999999999999e-119,Nannochloropsis gaditana
+Smic.gene19704.mRNA1,-460.51701859880916,False,-1013.8,False,3.5999999999999984e-292,Karenia brevis
+Smic.gene19817.mRNA1,-276.3102111592855,False,-444.5,False,9.999999999999998e-121,Opisthorchis viverrini
+Smic.gene19823.mRNA1,-18.420680743952367,False,-26.60000000000001,False,2.9999999999999997e-20,Vitrella brassicaformis CCMP3155
+Smic.gene19852.mRNA1,-153.4847438702368,False,-266.5,False,2.1999999999999998e-67,Thalassiosira pseudonana CCMP1335
+Smic.gene19879.mRNA1,-173.51486252662326,False,-293.5,False,4.3999999999999994e-76,Perkinsus marinus ATCC 50983
+Smic.gene19895.mRNA1,-7.744003303182751,False,-11.200000000000003,False,1.3e-15,Sphingomonas sp. Leaf230
+Smic.gene19931.mRNA1,-113.64765010877807,False,-211.1,False,4.4e-50,Emiliania huxleyi CCMP1516
+Smic.gene19977.mRNA1,-460.51701859070914,False,-737.6,False,8.099999999999997e-209,Heterocapsa triquetra
+Smic.gene19992.mRNA1,-252.64250634317264,False,-409.8,False,1.8999999999999996e-110,Amphidinium carterae
+Smic.gene20018.mRNA1,-332.8101277471442,False,-524.6,False,2.8999999999999988e-145,Amphidinium carterae
+Smic.gene20085.mRNA1,-337.6045399327708,False,-532.3,False,2.3999999999999992e-147,Vitrella brassicaformis CCMP3155
+Smic.gene20094.mRNA1,-229.06458683093214,False,-375.6,False,3.2999999999999995e-100,Thalassiosira oceanica
+Smic.gene20101.mRNA1,-62.631832970435795,False,-134.8,False,6.300000000000001e-28,Vitrella brassicaformis CCMP3155
+Smic.gene20150.mRNA1,-319.41747403999995,False,-505.8,False,1.8999999999999993e-139,Perkinsus marinus ATCC 50983
+Smic.gene20192.mRNA1,-143.67656649750498,False,-253.4,False,3.999999999999999e-63,Oryza sativa Japonica Group
+Smic.gene20198.mRNA1,-119.32895972758222,False,-215.7,False,1.4999999999999998e-52,Aureococcus anophagefferens
+Smic.gene20203.mRNA1,-37.43919848866035,False,-99.4,False,5.5000000000000006e-17,Brachypodium distachyon
+Smic.gene2021.mRNA1,-17.778826857779972,False,-69.7,False,1.8999999999999998e-08,bacterium DOLJORAL78_65_58
+Smic.gene20223.mRNA1,-460.5170185988091,False,-755.4,False,3.099999999999999e-214,Ananas comosus
+Smic.gene20250.mRNA1,-56.15364035114088,False,-125.9,False,4.0999999999999994e-25,Branchiostoma belcheri
+Smic.gene20295.mRNA1,-202.99855186486684,False,-336.3,False,6.899999999999999e-89,Vitrella brassicaformis CCMP3155
+Smic.gene20333.mRNA1,-236.17301280537643,False,-384.8,False,2.6999999999999996e-103,Vitrella brassicaformis CCMP3155
+Smic.gene20381.mRNA1,-21.18530129654297,False,-76.3,False,6.3e-10,Crassostrea virginica
+Smic.gene20482.mRNA1,-209.84995420729786,False,-349.0,False,7.299999999999999e-92,Babesia ovata
+Smic.gene20599.mRNA1,-185.00531513574143,False,-312.8,False,4.499999999999999e-81,Scleropages formosus
+Smic.gene20613.mRNA1,-36.746051308100405,False,-97.8,False,1.1000000000000001e-16,Polykrikos lebourae
+Smic.gene20711.mRNA1,-460.5140230898293,False,-718.8,False,2.9999999999999984e-203,Perkinsus marinus ATCC 50983
+Smic.gene20741.mRNA1,-294.8362524188957,False,-472.2,False,8.999999999999998e-129,Ipomoea nil
+Smic.gene20763.mRNA1,-460.51701859880916,False,-889.4,False,9.299999999999995e-255,Crypthecodinium cohnii
+Smic.gene20764.mRNA1,-108.32685988637797,False,-199.9,False,9e-48,Cystoisospora suis
+Smic.gene20805.mRNA1,-460.51701859880916,False,-1046.2,False,9.999999999999994e-302,Nannochloropsis gaditana
+Smic.gene20882.mRNA1,-27.535710936124225,False,-85.5,False,1.1e-12,Daphnia pulex
+Smic.gene20891.mRNA1,-68.24464366688626,False,-142.1,False,2.3e-30,Ostreococcus tauri
+Smic.gene20905.mRNA1,-109.78214711898481,False,-204.5,False,2.1e-48,Vitrella brassicaformis CCMP3155
+Smic.gene20962.mRNA1,-123.59765767694908,False,-223.0,False,2.1000000000000003e-54,Onthophagus taurus
+Smic.gene20972.mRNA1,-460.51701859880916,False,-809.7,False,1.599999999999999e-230,Perkinsus marinus ATCC 50983
+Smic.gene20981.mRNA1,-148.28173668349308,False,-258.5,False,4e-65,Gambierdiscus belizeanus
+Smic.gene21028.mRNA1,-56.776169964486876,False,-127.1,False,2.1999999999999997e-25,Aureococcus anophagefferens
+Smic.gene21054.mRNA1,-163.30122004578328,False,-279.6,False,1.1999999999999997e-71,Picea sitchensis
+Smic.gene21076.mRNA1,-206.35718963211022,False,-344.4,False,2.3999999999999997e-90,Rhizoclosmatium globosum
+Smic.gene21120.mRNA1,-209.27287919799068,False,-346.3,False,1.2999999999999998e-91,Guillardia theta CCMP2712
+Smic.gene21186.mRNA1,-328.0757458296761,False,-517.7,False,3.299999999999999e-143,Ectocarpus siliculosus
+Smic.gene21193.mRNA1,-183.25129599449622,False,-308.9,False,2.5999999999999993e-80,Emiliania huxleyi CCMP1516
+Smic.gene21354.mRNA1,-52.77713558206909,False,-121.3,False,1.1999999999999998e-23,Aplysia californica
+Smic.gene21394.mRNA1,-346.9484116973715,False,-545.8,False,2.0999999999999996e-151,Plasmodiophora brassicae
+Smic.gene2142.mRNA1,-150.97736436459672,False,-262.7,False,2.7e-66,Sorangium cellulosum
+Smic.gene21441.mRNA1,-158.347743165527,False,-271.6,False,1.6999999999999998e-69,Micromonas commoda
+Smic.gene21451.mRNA1,-25.856068765016875,False,-81.3,False,5.9e-12,Biomphalaria glabrata
+Smic.gene21556.mRNA1,-30.87521474878104,False,-89.4,False,3.9e-14,Pseudocohnilembus persalinus
+Smic.gene21589.mRNA1,-105.22576709716616,False,-196.4,False,2e-46,Phoenix dactylifera
+Smic.gene21597.mRNA1,-97.62486463762407,False,-187.6,False,4e-43,Ectocarpus siliculosus
+Smic.gene21602.mRNA1,-67.319694872269,False,-142.1,False,5.799999999999999e-30,Strongylocentrotus intermedius
+Smic.gene2165.mRNA1,-439.61143120423543,False,-678.7,False,1.1999999999999995e-191,Vitrella brassicaformis CCMP3155
+Smic.gene21671.mRNA1,-64.93441806342983,False,-136.7,False,6.3e-29,Rhincodon typus
+Smic.gene21683.mRNA1,-178.53692651654313,False,-303.5,False,2.899999999999999e-78,Vitrella brassicaformis CCMP3155
+Smic.gene21696.mRNA1,-354.26163208446184,False,-556.2,False,1.3999999999999994e-154,Perkinsus marinus ATCC 50983
+Smic.gene21726.mRNA1,-9.065158362131683,False,-13.100000000000009,False,3.7e-13,Verrucomicrobia bacterium RIFCSPHIGHO2_12_FULL_41_10
+Smic.gene21727.mRNA1,-1.6094379124340996,False,-2.299999999999997,False,7.200000000000001e-12,Candidatus Woesebacteria bacterium GW2011_GWA1_39_12
+Smic.gene21732.mRNA1,-75.72294380433601,False,-152.5,False,1.3e-33,Vitrella brassicaformis CCMP3155
+Smic.gene21755.mRNA1,-361.2434953355977,False,-565.8,False,1.2999999999999998e-157,Vitrella brassicaformis CCMP3155
+Smic.gene21790.mRNA1,-32.82013919051159,False,-47.39999999999998,False,2.9e-41,Perkinsus marinus ATCC 50983
+Smic.gene21792.mRNA1,-365.52324312115115,False,-572.8,False,1.7999999999999993e-159,Perkinsus marinus ATCC 50983
+Smic.gene21803.mRNA1,-127.84615291899844,False,-228.8,False,2.9999999999999994e-56,Scrippsiella trochoidea
+Smic.gene21819.mRNA1,-124.24428484187415,False,-222.6,False,1.1e-54,Cryptosporidium andersoni
+Smic.gene21823.mRNA1,-284.68764240832655,False,-457.2,False,2.2999999999999993e-124,Nannochloropsis gaditana
+Smic.gene21833.mRNA1,-20.874088726680995,False,-75.5,False,8.599999999999999e-10,Besnoitia besnoiti
+Smic.gene2186.mRNA1,-7.451370725571119,False,-10.800000000000004,False,1.8e-09,Solirubrobacter soli
+Smic.gene21873.mRNA1,-460.51701859880916,False,-848.2,False,1.2999999999999995e-242,Vitrella brassicaformis CCMP3155
+Smic.gene21883.mRNA1,-154.01083696613358,False,-266.5,False,1.2999999999999998e-67,Limulus polyphemus
+Smic.gene21886.mRNA1,-123.8089667706163,False,-222.6,False,1.7e-54,Aureococcus anophagefferens
+Smic.gene21969.mRNA1,-213.14716187543596,False,-352.8,False,2.6999999999999997e-93,Chlamydomonas sp. ICE-L
+Smic.gene21994.mRNA1,-310.921558247031,False,-493.8,False,9.299999999999999e-136,Mucor lusitanicus CBS 277.49
+Smic.gene22015.mRNA1,-23.368341238887233,False,-76.6,False,7.1e-11,Aethina tumida
+Smic.gene22082.mRNA1,-184.65309454215208,False,-310.8,False,6.4e-81,Micromonas commoda
+Smic.gene22190.mRNA1,-185.47977311533654,False,-314.3,False,2.8e-81,Asparagus officinalis
+Smic.gene22207.mRNA1,-21.62998711780441,False,-31.200000000000003,False,2.1e-30,Ectocarpus siliculosus
+Smic.gene22308.mRNA1,2.6625878270254546,False,3.8999999999999915,False,3e-19,Organic Lake phycodnavirus
+Smic.gene22318.mRNA1,-159.08909244790482,False,-272.7,False,8.099999999999998e-70,Vitrella brassicaformis CCMP3155
+Smic.gene22321.mRNA1,-153.93672899397984,False,-266.5,False,1.3999999999999997e-67,Ectocarpus siliculosus
+Smic.gene2233.mRNA1,-60.065663356569026,False,-132.1,False,8.2e-27,Fragilariopsis cylindrus CCMP1102
+Smic.gene22345.mRNA1,-7.217910207285982,False,-10.400000000000006,False,1.1e-29,Perkinsus marinus ATCC 50983
+Smic.gene22456.mRNA1,-51.82805502737195,False,-119.8,False,3.1e-23,Capsella rubella
+Smic.gene22469.mRNA1,-48.615651717009364,False,-115.2,False,7.699999999999999e-22,Hordeum vulgare subsp. vulgare
+Smic.gene22499.mRNA1,-87.16176129715252,False,-170.6,False,1.3999999999999997e-38,Trifolium subterraneum
+Smic.gene22511.mRNA1,-165.04418935084192,False,-283.9,False,2.0999999999999996e-72,Oscillatoriales cyanobacterium JSC-12
+Smic.gene22514.mRNA1,-138.3658266109584,False,-244.2,False,8.100000000000001e-61,Brassica napus
+Smic.gene22617.mRNA1,-16.223456166616145,False,-67.8,False,9e-08,Marinobacterium sp. AK27
+Smic.gene22640.mRNA1,-158.87837141658915,False,-273.5,False,1e-69,Micromonas commoda
+Smic.gene22650.mRNA1,-24.922970914826337,False,-79.3,False,1.5e-11,Cavia porcellus
+Smic.gene22656.mRNA1,-167.05909237138417,False,-285.8,False,2.7999999999999998e-73,Vitrella brassicaformis CCMP3155
+Smic.gene22722.mRNA1,-374.9848979214082,False,-587.8,False,1.3999999999999997e-163,Emiliania huxleyi CCMP1516
+Smic.gene22726.mRNA1,-26.71473038405439,False,-82.4,False,2.5000000000000003e-12,Blastocystis sp. ATCC 50177/Nand II
+Smic.gene22727.mRNA1,-38.67394295165304,False,-100.1,False,1.6e-17,Fundulus heteroclitus
+Smic.gene22764.mRNA1,-53.680003293611115,False,-77.4,False,1.8e-42,Vitrella brassicaformis CCMP3155
+Smic.gene22819.mRNA1,-41.90856713348938,False,-105.5,False,6.3e-19,Perkinsus marinus ATCC 50983
+Smic.gene22831.mRNA1,-34.538776394910684,False,-95.5,False,1e-15,Plasmodiophora brassicae
+Smic.gene22841.mRNA1,-14.151982794585486,False,-20.39999999999999,False,5e-20,Klebsormidium nitens
+Smic.gene22876.mRNA1,-16.022785471153995,False,-68.2,False,1.1e-07,Drosophila erecta
+Smic.gene22889.mRNA1,13.122363377404328,False,63.2,True,2e-06,Pandoravirus inopinatum
+Smic.gene22917.mRNA1,-199.49199396754688,False,-333.6,False,2.2999999999999992e-87,Branchiostoma floridae
+Smic.gene22918.mRNA1,-74.67697524915333,False,-153.3,False,3.6999999999999995e-33,Perkinsus marinus ATCC 50983
+Smic.gene2300.mRNA1,-134.44153351293843,False,-237.7,False,4.1e-59,Phytophthora palmivora var. palmivora
+Smic.gene23063.mRNA1,-121.63154482057625,False,-222.2,False,1.4999999999999999e-53,Thalassiosira oceanica
+Smic.gene23102.mRNA1,-252.0605847977229,False,-407.5,False,3.3999999999999995e-110,Perkinsus marinus ATCC 50983
+Smic.gene23105.mRNA1,-246.87090127217766,False,-400.6,False,6.0999999999999986e-108,Ichthyophthirius multifiliis
+Smic.gene23112.mRNA1,-66.679657517023,False,-139.8,False,1.1e-29,Fistulifera solaris
+Smic.gene23134.mRNA1,-252.8143566000993,False,-409.1,False,1.5999999999999996e-110,Phytophthora sojae
+Smic.gene23176.mRNA1,-281.44301408735595,False,-450.3,False,5.8999999999999985e-123,Vitrella brassicaformis CCMP3155
+Smic.gene23260.mRNA1,-123.8089667706163,False,-224.9,False,1.7e-54,Chrysochromulina tobinii
+Smic.gene23275.mRNA1,-82.79775316798133,False,-165.2,False,1.1e-36,Stentor coeruleus
+Smic.gene23281.mRNA1,-111.23743435159166,False,-203.4,False,4.8999999999999995e-49,Alexandrium fundyense
+Smic.gene23296.mRNA1,-175.23218940106855,False,-297.4,False,7.899999999999999e-77,Vitrella brassicaformis CCMP3155
+Smic.gene23297.mRNA1,-316.6581305445102,False,-501.5,False,2.9999999999999995e-138,Vitrella brassicaformis CCMP3155
+Smic.gene233.mRNA1,-16.734281790382138,False,-68.2,False,5.4e-08,Tilletia caries
+Smic.gene23324.mRNA1,-460.51701859880916,False,-1033.5,False,3.699999999999998e-298,Vitrella brassicaformis CCMP3155
+Smic.gene23325.mRNA1,-32.5106281476184,False,-91.3,False,7.6e-15,Acanthaster planci
+Smic.gene23353.mRNA1,-68.24464366688626,False,-143.7,False,2.3e-30,Prochlorococcus marinus
+Smic.gene23376.mRNA1,-113.84832080424022,False,-208.4,False,3.6e-50,Vitrella brassicaformis CCMP3155
+Smic.gene23386.mRNA1,-21.075486430535754,False,-30.39999999999999,False,4.4999999999999995e-31,Ectocarpus siliculosus
+Smic.gene23429.mRNA1,-26.67550967090111,False,-82.4,False,2.6000000000000002e-12,Rhizobium
+Smic.gene23439.mRNA1,-20.851099208456297,False,-74.3,False,8.800000000000001e-10,Aspergillus calidoustus
+Smic.gene23445.mRNA1,-459.15604204567353,False,-708.8,False,2.899999999999999e-200,Perkinsus marinus ATCC 50983
+Smic.gene23461.mRNA1,-43.27911313764113,False,-107.8,False,1.6000000000000002e-19,Cryptotermes secundus
+Smic.gene23462.mRNA1,-70.315427145823,False,-146.7,False,2.8999999999999996e-31,Ipomoea nil
+Smic.gene23478.mRNA1,-21.521773533164183,False,-75.1,False,4.5e-10,Fibroporia radiculosa
+Smic.gene23581.mRNA1,-65.5810452283549,False,-142.1,False,3.3e-29,Gambierdiscus excentricus
+Smic.gene23598.mRNA1,-398.0107488513487,False,-621.7,False,1.3999999999999998e-173,Sheathia arcuata
+Smic.gene23600.mRNA1,-460.51701858880915,False,-735.7,False,9.999999999999994e-209,Tarenaya hassleriana
+Smic.gene2362.mRNA1,-50.12624379480683,False,-117.5,False,1.7e-22,Emiliania huxleyi CCMP1516
+Smic.gene23651.mRNA1,-214.42809572089803,False,-354.0,False,7.499999999999998e-94,Vitrella brassicaformis CCMP3155
+Smic.gene23663.mRNA1,-69.62227996526305,False,-146.0,False,5.799999999999999e-31,Lingula anatina
+Smic.gene23690.mRNA1,-28.598605142190255,False,-85.9,False,3.8e-13,Babesia bigemina
+Smic.gene23730.mRNA1,-282.11935414959953,False,-452.6,False,2.9999999999999995e-123,Ananas comosus
+Smic.gene23733.mRNA1,-261.08371362761096,False,-424.1,False,4.099999999999999e-114,Perkinsus marinus ATCC 50983
+Smic.gene23734.mRNA1,-174.81414551075352,False,-297.4,False,1.1999999999999998e-76,Perkinsus marinus ATCC 50983
+Smic.gene23778.mRNA1,-78.49861419311321,False,-159.5,False,8.099999999999999e-35,Salpingoeca rosetta
+Smic.gene23793.mRNA1,-21.996231512759298,False,-76.3,False,2.7999999999999996e-10,Aspergillus oryzae RIB40
+Smic.gene2383.mRNA1,-46.87268241195074,False,-111.3,False,4.4e-21,Cyanidioschyzon merolae strain 10D
+Smic.gene23844.mRNA1,-15.712630542850155,False,-66.2,False,1.5e-07,Flammeovirga sp. SJP92
+Smic.gene23854.mRNA1,-248.72001203787718,False,-404.4,False,9.599999999999998e-109,Vitrella brassicaformis CCMP3155
+Smic.gene23893.mRNA1,-166.9900994998972,False,-285.0,False,2.9999999999999995e-73,Stentor coeruleus
+Smic.gene23930.mRNA1,-135.75721030684437,False,-238.8,False,1.1000000000000002e-59,Cystoisospora suis
+Smic.gene24024.mRNA1,-73.98382806859338,False,-150.6,False,7.399999999999999e-33,Stentor coeruleus
+Smic.gene24065.mRNA1,-197.49168974642575,False,-329.7,False,1.6999999999999997e-86,Vitrella brassicaformis CCMP3155
+Smic.gene2409.mRNA1,-194.0520260839358,False,-327.0,False,5.299999999999999e-85,Vitrella brassicaformis CCMP3155
+Smic.gene24149.mRNA1,-25.908254518187444,False,-80.9,False,5.5999999999999996e-12,Raphanus sativus
+Smic.gene24152.mRNA1,-13.90252193495391,False,-20.0,False,1.1e-35,Gammaproteobacteria bacterium
+Smic.gene24155.mRNA1,-116.55637100534243,False,-212.6,False,2.3999999999999997e-51,Emiliania huxleyi CCMP1516
+Smic.gene24176.mRNA1,-52.77713558206909,False,-122.9,False,1.1999999999999998e-23,Candidatus Scalindua japonica
+Smic.gene24190.mRNA1,-105.33112761282398,False,-196.8,False,1.8e-46,Thalassiosira oceanica
+Smic.gene24195.mRNA1,-20.72326583694641,False,-73.9,False,1e-09,Sarcophilus harrisii
+Smic.gene24238.mRNA1,-90.12932269373982,False,-174.5,False,7.199999999999999e-40,Chrysochromulina tobinii
+Smic.gene24253.mRNA1,-42.585965957081186,False,-105.9,False,3.2000000000000003e-19,Planoprotostelium fungivorum
+Smic.gene24257.mRNA1,-79.15539372950228,False,-158.3,False,4.1999999999999994e-35,Lingula anatina
+Smic.gene24268.mRNA1,-40.45327990088254,False,-103.2,False,2.7000000000000003e-18,Macrostomum lignano
+Smic.gene24287.mRNA1,-434.8521103392463,False,-673.7,False,1.3999999999999998e-189,Heterocapsa triquetra
+Smic.gene24289.mRNA1,-5.5786193317022,False,-8.100000000000009,False,1.7e-20,Emiliania huxleyi CCMP1516
+Smic.gene24304.mRNA1,-19.499490405324295,False,-71.6,False,3.4000000000000003e-09,Limulus polyphemus
+Smic.gene24369.mRNA1,-16.835053480211982,False,-24.19999999999999,False,8.3e-32,uncultured bacterium
+Smic.gene24413.mRNA1,-36.371357858658996,False,-98.6,False,1.6e-16,Diaphorina citri
+Smic.gene24490.mRNA1,-52.043166406988895,False,-119.0,False,2.4999999999999998e-23,Thecamonas trahens ATCC 50062
+Smic.gene24497.mRNA1,-272.813703597819,False,-438.0,False,3.2999999999999995e-119,Vitrella brassicaformis CCMP3155
+Smic.gene24538.mRNA1,-2.9497471603121657,False,-4.199999999999989,False,8.9e-09,Dolichospermum circinale
+Smic.gene24580.mRNA1,-69.40605685679341,False,-144.8,False,7.199999999999999e-31,Exaiptasia pallida
+Smic.gene24670.mRNA1,-56.25629450520096,False,-125.6,False,3.7e-25,Phoenix dactylifera
+Smic.gene24692.mRNA1,-86.66532441083864,False,-169.1,False,2.2999999999999998e-38,Pseudocohnilembus persalinus
+Smic.gene24697.mRNA1,-369.23459543111716,False,-577.8,False,4.399999999999999e-161,Besnoitia besnoiti
+Smic.gene24703.mRNA1,-121.4492232637823,False,-219.9,False,1.8e-53,Vitrella brassicaformis CCMP3155
+Smic.gene24754.mRNA1,-117.44189007854983,False,-215.3,False,9.9e-52,Nannochloropsis gaditana
+Smic.gene24780.mRNA1,-83.03414194604555,False,-119.80000000000001,False,6.599999999999999e-65,Chrysochromulina tobinii
+Smic.gene24785.mRNA1,-0.5108256237659816,False,-0.8000000000000114,False,5.999999999999999e-39,Emiliania huxleyi CCMP1516
+Smic.gene24874.mRNA1,-255.25047308571786,False,-412.9,False,1.3999999999999998e-111,Babesia bigemina
+Smic.gene24912.mRNA1,-116.78998585652394,False,-214.9,False,1.9e-51,Klebsormidium nitens
+Smic.gene24932.mRNA1,-336.1774235771307,False,-529.3,False,9.999999999999998e-147,Perkinsus marinus ATCC 50983
+Smic.gene24933.mRNA1,-181.11576498616535,False,-307.4,False,2.1999999999999996e-79,Plasmodiophora brassicae
+Smic.gene24958.mRNA1,-52.266309958303104,False,-120.6,False,2e-23,Capsaspora owczarzaki ATCC 30864
+Smic.gene25013.mRNA1,-367.0273205179274,False,-574.3,False,3.999999999999999e-160,Vitrella brassicaformis CCMP3155
+Smic.gene25196.mRNA1,-35.231923575470624,False,-50.900000000000006,False,2.4e-29,Vitrella brassicaformis CCMP3155
+Smic.gene25197.mRNA1,1.8622732535557134,False,2.6999999999999886,False,7.3e-37,Pandoravirus salinus
+Smic.gene25217.mRNA1,-49.70136060084157,False,-115.9,False,2.6e-22,Vitrella brassicaformis CCMP3155
+Smic.gene25220.mRNA1,-29.10542274455871,False,-42.000000000000014,False,1.9e-29,Myxococcales bacterium 68-20
+Smic.gene25247.mRNA1,-26.32268829627837,False,-82.0,False,3.7e-12,Drosophila simulans
+Smic.gene25292.mRNA1,-159.92819354108784,False,-275.0,False,3.5e-70,Vitrella brassicaformis CCMP3155
+Smic.gene25295.mRNA1,-106.8864983039878,False,-197.6,False,3.8e-47,Perkinsus marinus ATCC 50983
+Smic.gene25325.mRNA1,-43.41264453026565,False,-106.7,False,1.4e-19,Aureococcus anophagefferens
+Smic.gene25374.mRNA1,-74.79138560033107,False,-151.8,False,3.3e-33,Vitrella brassicaformis CCMP3155
+Smic.gene25398.mRNA1,-20.135479172044292,False,-73.9,False,1.8e-09,Setaria italica
+Smic.gene25422.mRNA1,-149.7733915602708,False,-261.5,False,8.999999999999998e-66,Lupinus angustifolius
+Smic.gene25424.mRNA1,-460.51701859880916,False,-1277.7,False,0.0,Besnoitia besnoiti
+Smic.gene25464.mRNA1,-10.665627604583024,False,-15.399999999999991,False,4.9e-11,Emiliania huxleyi CCMP1516
+Smic.gene2550.mRNA1,23.780873514218488,False,79.0,True,4.7e-11,Cannes 8 virus
+Smic.gene25509.mRNA1,-8.27321555319919,False,-11.900000000000006,False,9.7e-15,Lobosporangium transversale
+Smic.gene25511.mRNA1,-51.35001922642895,False,-120.2,False,4.9999999999999997e-23,Sphaeroforma arctica JP610
+Smic.gene25563.mRNA1,-159.95718107796108,False,-275.4,False,3.399999999999999e-70,Dictyostelium discoideum
+Smic.gene25581.mRNA1,-323.9713509316005,False,-513.1,False,1.9999999999999995e-141,Perkinsus marinus ATCC 50983
+Smic.gene25586.mRNA1,-5.608472294851879,False,-8.0,False,2.2000000000000002e-10,Chlamydomonas eustigma
+Smic.gene25592.mRNA1,-93.76413492658348,False,-180.6,False,1.9e-41,Vitrella brassicaformis CCMP3155
+Smic.gene25625.mRNA1,-67.40984596926329,False,-142.1,False,5.3000000000000004e-30,Stylonychia lemnae
+Smic.gene25748.mRNA1,-210.01327926340116,False,-347.1,False,6.199999999999999e-92,Chrysochromulina tobinii
+Smic.gene25865.mRNA1,-144.96755067882054,False,-254.2,False,1.0999999999999998e-63,Guillardia theta CCMP2712
+Smic.gene25976.mRNA1,-28.324168296488494,False,-40.8,False,1.4e-32,Perkinsus marinus ATCC 50983
+Smic.gene26000.mRNA1,-7.189395036977956,False,-10.400000000000006,False,8.300000000000001e-16,Blastopirellula cremea
+Smic.gene26043.mRNA1,-249.5954807752311,False,-404.8,False,3.9999999999999995e-109,Besnoitia besnoiti
+Smic.gene26067.mRNA1,-262.782382673773,False,-424.5,False,7.499999999999999e-115,Cavia porcellus
+Smic.gene26071.mRNA1,-214.55592909240792,False,-355.1,False,6.599999999999999e-94,Theobroma cacao
+Smic.gene26096.mRNA1,-217.82929310256017,False,-359.8,False,2.4999999999999992e-95,Aureococcus anophagefferens
+Smic.gene26098.mRNA1,-80.72974032212511,False,-161.0,False,8.699999999999999e-36,Neobenedenia girellae
+Smic.gene26171.mRNA1,-145.24973823195467,False,-209.5,False,7.299999999999998e-84,Phaeodactylum tricornutum CCAP 1055/1
+Smic.gene2625.mRNA1,-300.8967098374906,False,-479.9,False,2.0999999999999992e-131,Perkinsus marinus ATCC 50983
+Smic.gene26261.mRNA1,-9.343871764600705,False,-13.5,False,7.7e-11,Altererythrobacter estronivorus
+Smic.gene26370.mRNA1,-105.0434455403722,False,-198.0,False,2.3999999999999997e-46,Heterocapsa triquetra
+Smic.gene26408.mRNA1,-68.5469245387592,False,-144.8,False,1.7e-30,Moorella humiferrea
+Smic.gene26490.mRNA1,-27.973511424875323,False,-85.1,False,7.099999999999999e-13,Monosiga brevicollis MX1
+Smic.gene26554.mRNA1,-3.726619782096785,False,-5.400000000000006,False,6.5e-09,Desulfobacula toluolica
+Smic.gene26606.mRNA1,-209.43993328265384,False,-347.4,False,1.0999999999999999e-91,Vitrella brassicaformis CCMP3155
+Smic.gene26616.mRNA1,-52.043166406988895,False,-119.4,False,2.4999999999999998e-23,Lactuca sativa
+Smic.gene26694.mRNA1,-460.5169646002671,False,-724.2,False,5.3999999999999975e-205,Vitrella brassicaformis CCMP3155
+Smic.gene26699.mRNA1,-13.864300722133706,False,-20.0,False,2.0000000000000002e-20,Klebsormidium nitens
+Smic.gene26785.mRNA1,-129.91234923392827,False,-233.8,False,3.8000000000000003e-57,Callorhinchus milii
+Smic.gene26804.mRNA1,-242.52645734865283,False,-394.8,False,4.699999999999999e-106,Thalassiosira pseudonana CCMP1335
+Smic.gene26880.mRNA1,-88.4924858071176,False,-174.5,False,3.7e-39,Emiliania huxleyi CCMP1516
+Smic.gene27067.mRNA1,-34.57959838943094,False,-93.2,False,9.6e-16,Bathycoccus prasinos
+Smic.gene27075.mRNA1,-240.9385256414397,False,-392.9,False,2.2999999999999993e-105,Perkinsus marinus ATCC 50983
+Smic.gene27087.mRNA1,-10.414313176302116,False,-15.0,False,9.6e-15,Betaproteobacteria bacterium RIFCSPLOWO2_02_FULL_64_12
+Smic.gene27089.mRNA1,-446.70150704084534,False,-689.1,False,9.999999999999996e-195,Vitrella brassicaformis CCMP3155
+Smic.gene2709.mRNA1,-86.11193917265385,False,-168.3,False,4e-38,Perkinsus marinus ATCC 50983
+Smic.gene27215.mRNA1,-20.97172719624491,False,-74.3,False,7.8e-10,Thalassiosira pseudonana CCMP1335
+Smic.gene27256.mRNA1,-136.8201045129104,False,-240.4,False,3.8e-60,Perkinsus marinus ATCC 50983
+Smic.gene2726.mRNA1,-24.922970914826337,False,-78.2,False,1.5e-11,Chlamydomonas reinhardtii
+Smic.gene27285.mRNA1,-3.736132338964481,False,-5.400000000000006,False,3.1e-24,Marine Group III euryarchaeote CG-Epi4
+Smic.gene2733.mRNA1,-178.64612580850812,False,-304.7,False,2.5999999999999996e-78,Orbicella faveolata
+Smic.gene27348.mRNA1,-95.96663656102054,False,-183.3,False,2.1e-42,Perkinsus marinus ATCC 50983
+Smic.gene27417.mRNA1,-115.28007753943687,False,-212.2,False,8.6e-51,Paramecium tetraurelia strain d4-2
+Smic.gene27492.mRNA1,-309.14423946195774,False,-491.1,False,5.4999999999999987e-135,Klebsormidium nitens
+Smic.gene2751.mRNA1,-151.43998788654486,False,-263.8,False,1.6999999999999997e-66,Perkinsus marinus ATCC 50983
+Smic.gene27541.mRNA1,-367.10528205939715,False,-573.5,False,3.699999999999999e-160,Vitrella brassicaformis CCMP3155
+Smic.gene27566.mRNA1,-14.68599175380713,False,-21.200000000000003,False,6.7e-29,Thalassiosira oceanica
+Smic.gene27569.mRNA1,-288.7907206505174,False,-460.7,False,3.799999999999999e-126,Galdieria sulphuraria
+Smic.gene27586.mRNA1,-76.74033065308154,False,-156.8,False,4.7e-34,Micromonas commoda
+Smic.gene27627.mRNA1,-22.689378693319245,False,-77.4,False,1.3999999999999998e-10,Coptis japonica
+Smic.gene27697.mRNA1,-134.93622975477453,False,-238.4,False,2.5e-59,Perkinsus marinus ATCC 50983
+Smic.gene27708.mRNA1,-26.172406093229032,False,-82.0,False,4.3e-12,Orbicella faveolata
+Smic.gene2775.mRNA1,31.042268833444204,True,90.9,True,3.3000000000000005e-14,Wenzhou weivirus-like virus 1
+Smic.gene27945.mRNA1,-42.832826035012715,False,-107.5,False,2.5e-19,Brassica oleracea var. oleracea
+Smic.gene27955.mRNA1,-16.353817984479388,False,-66.2,False,7.9e-08,Symbiobacterium thermophilum
+Smic.gene27962.mRNA1,-124.56273857299267,False,-224.6,False,8e-55,Chrysochromulina tobinii
+Smic.gene28031.mRNA1,-38.15069480788849,False,-99.8,False,2.7e-17,Perkinsus marinus ATCC 50983
+Smic.gene28099.mRNA1,-157.74696930509805,False,-272.3,False,3.0999999999999994e-69,Perkinsus marinus ATCC 50983
+Smic.gene28100.mRNA1,-120.5554053877602,False,-218.4,False,4.399999999999999e-53,Guillardia theta CCMP2712
+Smic.gene28155.mRNA1,10.393693889099382,False,14.999999999999986,False,4.9e-27,Pithovirus sibericum
+Smic.gene2832.mRNA1,-460.5170093988514,False,-725.7,False,9.199999999999996e-206,Vitrella brassicaformis CCMP3155
+Smic.gene2842.mRNA1,-44.34695376764249,False,-110.2,False,5.500000000000001e-20,Stentor coeruleus
+Smic.gene28431.mRNA1,-113.01299913489973,False,-208.0,False,8.3000000000000005e-50,Oryzias melastigma
+Smic.gene28459.mRNA1,-169.43578543653194,False,-289.3,False,2.6e-74,Monodelphis domestica
+Smic.gene2849.mRNA1,-350.14375702482954,False,-549.7,False,8.599999999999997e-153,Vitrella brassicaformis CCMP3155
+Smic.gene2857.mRNA1,-192.19337237987773,False,-322.8,False,3.3999999999999993e-84,Vitrella brassicaformis CCMP3155
+Smic.gene28776.mRNA1,-40.332171028256575,False,-58.099999999999994,False,6.4e-32,Ostreococcus tauri
+Smic.gene2881.mRNA1,-168.95621235627007,False,-287.7,False,4.2e-74,Perkinsus marinus ATCC 50983
+Smic.gene28833.mRNA1,-96.98301075145167,False,-183.3,False,7.6e-43,Aureococcus anophagefferens
+Smic.gene28860.mRNA1,-88.66941651527668,False,-172.9,False,3.1e-39,Emiliania huxleyi CCMP1516
+Smic.gene290.mRNA1,-22.383997043768062,False,-78.6,False,1.9e-10,Calocera cornea HHB12733
+Smic.gene29006.mRNA1,-3.7495040759303713,False,-5.400000000000006,False,2e-09,Erwinia billingiae
+Smic.gene29026.mRNA1,-30.174768265739488,False,-43.5,False,3.2999999999999997e-32,Tritrichomonas foetus
+Smic.gene2920.mRNA1,-103.61632918473205,False,-193.0,False,1e-45,Theobroma cacao
+Smic.gene2924.mRNA1,-37.27214440399719,False,-100.1,False,6.5e-17,Prunus mume
+Smic.gene29467.mRNA1,-27.294548879307335,False,-83.2,False,1.3999999999999999e-12,Azospirillum thiophilum
+Smic.gene29514.mRNA1,-39.500621524837506,False,-101.3,False,7.000000000000001e-18,Trichomonas vaginalis G3
+Smic.gene29650.mRNA1,-11.202770536666385,False,-16.099999999999994,False,1.1999999999999999e-19,Genlisea aurea
+Smic.gene2985.mRNA1,-135.67019892985473,False,-240.7,False,1.1999999999999999e-59,Thecamonas trahens ATCC 50062
+Smic.gene2994.mRNA1,-39.559462024860444,False,-101.7,False,6.6e-18,Tortispora caseinolytica NRRL Y-17796
+Smic.gene312.mRNA1,-50.95797713865293,False,-119.0,False,7.4e-23,Zea mays
+Smic.gene3240.mRNA1,12.267948049248261,False,61.6,True,4.7e-06,Beihai narna-like virus 10
+Smic.gene3241.mRNA1,79.7150095174377,True,159.8,True,2.3999999999999996e-35,Beihai weivirus-like virus 5
+Smic.gene3253.mRNA1,-290.5720088198782,False,-464.2,False,6.399999999999998e-127,Ectocarpus siliculosus
+Smic.gene3385.mRNA1,-142.42380352900963,False,-249.2,False,1.3999999999999998e-62,Amphimedon queenslandica
+Smic.gene3390.mRNA1,-121.85468837189046,False,-222.2,False,1.1999999999999998e-53,Acanthamoeba castellanii str. Neff
+Smic.gene3395.mRNA1,-148.6747792716027,False,-261.9,False,2.7e-65,Lobosporangium transversale
+Smic.gene3420.mRNA1,-460.51701859880916,False,-850.1,False,8.799999999999998e-243,Perkinsus marinus ATCC 50983
+Smic.gene3542.mRNA1,-158.61600715212165,False,-272.3,False,1.2999999999999998e-69,Perkinsus marinus ATCC 50983
+Smic.gene3573.mRNA1,-80.40815669799764,False,-160.6,False,1.1999999999999998e-35,Vitrella brassicaformis CCMP3155
+Smic.gene3590.mRNA1,-126.81653350181729,False,-229.9,False,8.399999999999998e-56,Vitrella brassicaformis CCMP3155
+Smic.gene3620.mRNA1,-68.24464366688626,False,-143.7,False,2.3e-30,Dictyostelium purpureum
+Smic.gene3687.mRNA1,-102.48492707324095,False,-193.0,False,3.0999999999999995e-45,Solanum lycopersicum
+Smic.gene3692.mRNA1,-19.36228928381081,False,-72.8,False,3.9e-09,Kryptolebias marmoratus
+Smic.gene37.mRNA1,-40.11153060716048,False,-102.4,False,3.8e-18,Aureococcus anophagefferens
+Smic.gene3718.mRNA1,-22.426732699028797,False,-32.39999999999999,False,7.099999999999999e-29,Thalassiosira oceanica
+Smic.gene3720.mRNA1,-123.8089667706163,False,-224.2,False,1.7e-54,Ostreococcus lucimarinus CCE9901
+Smic.gene3876.mRNA1,-133.45462521385033,False,-236.5,False,1.1e-58,Vitrella brassicaformis CCMP3155
+Smic.gene3903.mRNA1,-40.32260157724042,False,-58.19999999999999,False,2.3999999999999996e-55,Vitrella brassicaformis CCMP3155
+Smic.gene3931.mRNA1,-103.86479054403055,False,-193.7,False,7.799999999999999e-46,Emiliania huxleyi CCMP1516
+Smic.gene3940.mRNA1,-45.7152296232597,False,-109.8,False,1.3999999999999998e-20,Micractinium conductrix
+Smic.gene3955.mRNA1,-280.6530170808061,False,-452.2,False,1.3e-122,Chrysochromulina tobinii
+Smic.gene396.mRNA1,-104.43730973680188,False,-194.9,False,4.4e-46,Guillardia theta CCMP2712
+Smic.gene4031.mRNA1,-147.18312439482497,False,-258.5,False,1.1999999999999998e-64,Vitrella brassicaformis CCMP3155
+Smic.gene4037.mRNA1,-460.5145217186105,False,-720.7,False,2.4999999999999992e-203,Vitrella brassicaformis CCMP3155
+Smic.gene4040.mRNA1,-21.436615724823877,False,-76.3,False,4.900000000000001e-10,Arabis alpina
+Smic.gene4043.mRNA1,-220.46038226252628,False,-364.0,False,1.7999999999999996e-96,Ostreococcus tauri
+Smic.gene4069.mRNA1,16.11809565095832,False,68.6,True,1e-07,Wenzhou weivirus-like virus 1
+Smic.gene4245.mRNA1,-83.1675001934874,False,-165.2,False,7.6e-37,[Candida] arabinofermentans NRRL YB-2248
+Smic.gene4277.mRNA1,-134.04423171546944,False,-241.1,False,6.1000000000000005e-59,Trichomonas vaginalis G3
+Smic.gene436.mRNA1,-204.1881359317407,False,-341.3,False,2.099999999999999e-89,Saprolegnia parasitica CBS 223.65
+Smic.gene4372.mRNA1,-73.34625073918825,False,-151.4,False,1.4e-32,Bodo saltans
+Smic.gene441.mRNA1,-161.08564632977888,False,-280.0,False,1.1e-70,Emiliania huxleyi CCMP1516
+Smic.gene4416.mRNA1,-15.201804919084168,False,-21.900000000000006,False,3e-23,Thalassiosira oceanica
+Smic.gene4456.mRNA1,128.7624436508726,True,231.1,True,1.1999999999999998e-56,Tacheng Tick Virus 6
+Smic.gene4474.mRNA1,-29.52814110081443,False,-87.4,False,1.5e-13,Eutrema salsugineum
+Smic.gene4517.mRNA1,-350.321438202067,False,-550.8,False,7.199999999999997e-153,Onthophagus taurus
+Smic.gene4521.mRNA1,-4.54632968596516,False,-6.600000000000001,False,3.5e-08,Alphaproteobacteria bacterium PA1
+Smic.gene4534.mRNA1,-9.094827484854335,False,-13.099999999999994,False,1.1e-17,Oxalobacter formigenes
+Smic.gene4653.mRNA1,-33.107019659714034,False,-47.80000000000001,False,1.7999999999999998e-35,Thalassiosira oceanica
+Smic.gene4715.mRNA1,-115.03394446989796,False,-209.5,False,1.1e-50,Vitrella brassicaformis CCMP3155
+Smic.gene4794.mRNA1,-67.79661894435931,False,-144.1,False,3.6e-30,Emiliania huxleyi CCMP1516
+Smic.gene4830.mRNA1,-232.63366508523345,False,-382.5,False,9.299999999999999e-102,Eutrema salsugineum
+Smic.gene4874.mRNA1,-312.96925109039626,False,-497.7,False,1.1999999999999997e-136,Vitrella brassicaformis CCMP3155
+Smic.gene4880.mRNA1,-64.47238260383328,False,-136.7,False,1e-28,Albugo candida
+Smic.gene4923.mRNA1,-28.586532560955987,False,-41.19999999999999,False,3.499999999999999e-77,Aureococcus anophagefferens
+Smic.gene5146.mRNA1,7.21649076063175,False,10.400000000000006,False,4.700000000000001e-24,Only Syngen Nebraska virus 5
+Smic.gene5183.mRNA1,-207.50709521516586,False,-344.4,False,7.599999999999998e-91,Perkinsus marinus ATCC 50983
+Smic.gene5234.mRNA1,1.8697210106977664,False,2.6999999999999886,False,3.7e-27,Pithovirus sibericum
+Smic.gene5274.mRNA1,-13.893068792310153,False,-20.0,False,6.2e-34,Amphidinium carterae
+Smic.gene5329.mRNA1,-1.5881605139868142,False,-2.299999999999997,False,1.9e-23,Gossypium barbadense
+Smic.gene5354.mRNA1,-171.42738881324613,False,-247.29999999999998,False,3.2999999999999994e-117,Chrysochromulina tobinii
+Smic.gene5406.mRNA1,-37.671709789978166,False,-54.30000000000001,False,1.6999999999999998e-48,Phaeodactylum tricornutum CCAP 1055/1
+Smic.gene553.mRNA1,-8.251490025683232,False,-12.0,False,1.2e-12,Acanthamoeba castellanii str. Neff
+Smic.gene5618.mRNA1,-97.42192379362739,False,-184.9,False,4.9e-43,Guillardia theta CCMP2712
+Smic.gene5658.mRNA1,-132.09132037095515,False,-236.9,False,4.3e-58,Aureococcus anophagefferens
+Smic.gene5671.mRNA1,-374.91590504992126,False,-587.8,False,1.4999999999999995e-163,Hammondia hammondi
+Smic.gene5683.mRNA1,-78.48634410052139,False,-157.5,False,8.2e-35,Stylophora pistillata
+Smic.gene5772.mRNA1,-120.40776938895414,False,-218.8,False,5.0999999999999995e-53,Oxytricha trifallax
+Smic.gene5782.mRNA1,-254.45554321084796,False,-413.3,False,3.0999999999999994e-111,Pfiesteria piscicida
+Smic.gene5857.mRNA1,-126.45985855787856,False,-227.3,False,1.1999999999999998e-55,Ipomoea nil
+Smic.gene59.mRNA1,-208.84209628189822,False,-348.6,False,1.9999999999999998e-91,Bodo saltans
+Smic.gene5950.mRNA1,-44.179899682979325,False,-109.8,False,6.499999999999999e-20,Asparagus officinalis
+Smic.gene6011.mRNA1,-148.47410857614054,False,-257.7,False,3.2999999999999997e-65,Pfiesteria piscicida
+Smic.gene6014.mRNA1,-70.38688610980513,False,-145.2,False,2.6999999999999997e-31,Haliaeetus leucocephalus
+Smic.gene6022.mRNA1,-257.1010730549688,False,-416.4,False,2.1999999999999998e-112,Vitrella brassicaformis CCMP3155
+Smic.gene6035.mRNA1,-157.3523151130941,False,-272.7,False,4.599999999999999e-69,Emiliania huxleyi CCMP1516
+Smic.gene6041.mRNA1,-123.86959139243272,False,-222.2,False,1.6e-54,Chelonia mydas
+Smic.gene6049.mRNA1,-152.56845313836263,False,-264.6,False,5.499999999999999e-67,Pfiesteria piscicida
+Smic.gene6070.mRNA1,-150.05369352542496,False,-260.0,False,6.799999999999999e-66,Strongylocentrotus purpuratus
+Smic.gene6082.mRNA1,-72.63968053829618,False,-104.80000000000001,False,2.0999999999999998e-50,Aureococcus anophagefferens
+Smic.gene6114.mRNA1,-125.85372275430824,False,-226.9,False,2.2e-55,Picea sitchensis
+Smic.gene6122.mRNA1,-26.937873935368604,False,-83.6,False,2e-12,Capitella teleta
+Smic.gene613.mRNA1,-19.981328492217035,False,-72.0,False,2.0999999999999998e-09,Rhizophagus irregularis DAOM 181602=DAOM 197198
+Smic.gene6150.mRNA1,-85.98410580114395,False,-124.0,False,3.5e-62,Amphidinium carterae
+Smic.gene6177.mRNA1,-232.8487764648504,False,-382.5,False,7.499999999999998e-102,Perkinsus marinus ATCC 50983
+Smic.gene6191.mRNA1,-49.22178752057968,False,-115.9,False,4.2000000000000006e-22,Lithobates catesbeianus
+Smic.gene6197.mRNA1,-76.24667283293792,False,-156.8,False,7.699999999999999e-34,Acanthamoeba castellanii str. Neff
+Smic.gene6212.mRNA1,-460.51701859880916,False,-856.7,False,3.0999999999999986e-244,Vitrella brassicaformis CCMP3155
+Smic.gene6272.mRNA1,-125.30717904794017,False,-226.5,False,3.8e-55,Perkinsus marinus ATCC 50983
+Smic.gene6273.mRNA1,-79.15539372950228,False,-159.5,False,4.1999999999999994e-35,Monosiga brevicollis MX1
+Smic.gene6287.mRNA1,-116.30043763120523,False,-212.2,False,3.1e-51,Alexandrium fundyense
+Smic.gene6296.mRNA1,-301.63864718222,False,-481.1,False,9.999999999999997e-132,Daphnia pulex
+Smic.gene631.mRNA1,-37.95002411242634,False,-99.4,False,3.3e-17,Tetrahymena thermophila SB210
+Smic.gene6353.mRNA1,-317.48847884658363,False,-458.00000000000006,False,1.6999999999999995e-184,Chrysochromulina tobinii
+Smic.gene6394.mRNA1,-36.913932180739565,False,-98.2,False,9.300000000000001e-17,Sphaeroforma arctica JP610
+Smic.gene6438.mRNA1,-367.8258282141452,False,-576.2,False,1.7999999999999995e-160,Heterocapsa triquetra
+Smic.gene6526.mRNA1,-12.532288381984188,False,-18.099999999999994,False,3.5e-43,Sphingobacteriales bacterium 50-39
+Smic.gene6645.mRNA1,-272.1513280759258,False,-438.7,False,6.399999999999999e-119,Chrysochromulina tobinii
+Smic.gene672.mRNA1,-85.43137077430076,False,-167.5,False,7.9e-38,Strongylocentrotus purpuratus
+Smic.gene6747.mRNA1,-210.06287620454052,False,-349.7,False,5.899999999999999e-92,Crassostrea gigas
+Smic.gene6754.mRNA1,-170.29598670175506,False,-291.6,False,1.0999999999999999e-74,Vitrella brassicaformis CCMP3155
+Smic.gene6774.mRNA1,34.008148143848516,True,95.5,True,1.7e-15,Wenzhou weivirus-like virus 1
+Smic.gene6846.mRNA1,-460.51701859880916,False,-839.7,False,2.0999999999999985e-239,Perkinsus marinus ATCC 50983
+Smic.gene6852.mRNA1,-46.87268241195074,False,-113.6,False,4.4e-21,Vitrella brassicaformis CCMP3155
+Smic.gene6888.mRNA1,-150.80746532780134,False,-260.8,False,3.1999999999999993e-66,Chrysochromulina tobinii
+Smic.gene6916.mRNA1,-153.04942579897894,False,-266.5,False,3.3999999999999994e-67,Perkinsus marinus ATCC 50983
+Smic.gene6949.mRNA1,-30.54979234834641,False,-89.0,False,5.400000000000001e-14,Clupea harengus
+Smic.gene695.mRNA1,-35.27274556999089,False,-95.1,False,4.8e-16,Arachis ipaensis
+Smic.gene6965.mRNA1,-200.14258153368803,False,-334.7,False,1.1999999999999995e-87,Perkinsus marinus ATCC 50983
+Smic.gene7032.mRNA1,-112.64434799991429,False,-205.3,False,1.2e-49,Chlorella sorokiniana
+Smic.gene7153.mRNA1,-10.710578992445292,False,-15.400000000000006,False,2.9e-19,Klebsormidium nitens
+Smic.gene72.mRNA1,-117.6061931298411,False,-214.2,False,8.400000000000001e-52,Fragilariopsis cylindrus CCMP1102
+Smic.gene7216.mRNA1,-116.17907677420096,False,-212.2,False,3.5e-51,Amphimedon queenslandica
+Smic.gene7262.mRNA1,-192.38752839431868,False,-321.6,False,2.7999999999999994e-84,Microcoleus vaginatus
+Smic.gene7297.mRNA1,-35.50636042117239,False,-95.1,False,3.7999999999999996e-16,Cicer arietinum
+Smic.gene7305.mRNA1,-191.98206328621052,False,-323.9,False,4.2e-84,Saccharomyces cerevisiae S288C
+Smic.gene7342.mRNA1,-219.2076192940309,False,-360.9,False,6.299999999999999e-96,Aegilops tauschii subsp. tauschii
+Smic.gene7346.mRNA1,-182.11494337784526,False,-307.8,False,8.099999999999998e-80,Vitrella brassicaformis CCMP3155
+Smic.gene7366.mRNA1,-231.56784261938833,False,-379.0,False,2.6999999999999998e-101,Nicotiana tabacum
+Smic.gene7375.mRNA1,-460.51701859880916,False,-786.9,False,1.3999999999999995e-223,Perkinsus marinus ATCC 50983
+Smic.gene741.mRNA1,-460.51701859880916,False,-916.8,False,5.599999999999997e-263,Clunio marinus
+Smic.gene7432.mRNA1,-326.4364549540923,False,-517.3,False,1.6999999999999994e-142,Arabidopsis thaliana
+Smic.gene7479.mRNA1,-375.83219578179546,False,-591.3,False,5.999999999999997e-164,Vitrella brassicaformis CCMP3155
+Smic.gene7494.mRNA1,-8.82257484096742,False,-12.700000000000003,False,1.4000000000000002e-21,Tetrabaena socialis
+Smic.gene7508.mRNA1,-60.73471298554991,False,-131.7,False,4.1999999999999996e-27,Drosophila bipectinata
+Smic.gene7522.mRNA1,-131.3092257043787,False,-233.8,False,9.4e-58,Dictyostelium discoideum AX4
+Smic.gene7542.mRNA1,-73.58741279600514,False,-152.5,False,1.1e-32,Chlamydomonas reinhardtii
+Smic.gene7545.mRNA1,-62.25317911977829,False,-135.2,False,9.2e-28,Chrysochromulina tobinii
+Smic.gene7547.mRNA1,-79.00124304967501,False,-157.9,False,4.899999999999999e-35,Fistulifera solaris
+Smic.gene7551.mRNA1,-35.25212628278815,False,-96.3,False,4.900000000000001e-16,Emiliania huxleyi CCMP1516
+Smic.gene7563.mRNA1,-29.122675992706263,False,-42.000000000000014,False,7.2e-36,Fistulifera solaris
+Smic.gene7594.mRNA1,-77.33238171677012,False,-157.1,False,2.6e-34,Aureococcus anophagefferens
+Smic.gene7673.mRNA1,-13.330002742182575,False,-19.299999999999997,False,3.9e-20,Marchantia polymorpha subsp. ruderalis
+Smic.gene7765.mRNA1,-20.03011865638647,False,-28.89999999999999,False,1.9e-15,Vitrella brassicaformis CCMP3155
+Smic.gene7784.mRNA1,-190.8521984540383,False,-322.0,False,1.2999999999999997e-83,Anaeromyces robustus
+Smic.gene7835.mRNA1,-84.14582631628102,False,-121.39999999999998,False,1e-65,Amphidinium carterae
+Smic.gene7854.mRNA1,12.429216196844383,False,63.2,True,4e-06,Sputnik virophage
+Smic.gene7856.mRNA1,-80.49516807498728,False,-160.2,False,1.1e-35,Gossypium raimondii
+Smic.gene7905.mRNA1,-442.7502643030327,False,-686.0,False,5.199999999999998e-193,Rickettsiaceae bacterium 4572_127
+Smic.gene7913.mRNA1,-202.87594954277452,False,-339.3,False,7.799999999999998e-89,Camelina sativa
+Smic.gene793.mRNA1,-40.97652804464709,False,-103.6,False,1.6e-18,Plasmopara halstedii
+Smic.gene794.mRNA1,-32.05386974512268,False,-90.1,False,1.2e-14,Schistosoma mansoni
+Smic.gene7993.mRNA1,-347.926071375622,False,-548.9,False,7.899999999999998e-152,Vitrella brassicaformis CCMP3155
+Smic.gene809.mRNA1,-274.23076961760563,False,-440.7,False,7.999999999999998e-120,Ectocarpus siliculosus
+Smic.gene8109.mRNA1,-32.14088112211231,False,-90.9,False,1.1e-14,Oryza sativa Japonica Group
+Smic.gene8118.mRNA1,-122.85799048075425,False,-223.0,False,4.4e-54,Vitrella brassicaformis CCMP3155
+Smic.gene8124.mRNA1,-371.79500963341326,False,-582.4,False,3.399999999999999e-162,Heterocapsa triquetra
+Smic.gene8197.mRNA1,-460.51701859490913,False,-736.9,False,3.8999999999999984e-209,Heterocapsa triquetra
+Smic.gene8212.mRNA1,9.581903928408664,False,13.900000000000006,False,2e-34,Pithovirus sibericum
+Smic.gene8214.mRNA1,-23.99343495620216,False,-78.6,False,3.8e-11,Malus domestica
+Smic.gene8225.mRNA1,-242.14249844576563,False,-394.4,False,6.9e-106,Clupea harengus
+Smic.gene8294.mRNA1,-110.18761222709298,False,-204.5,False,1.3999999999999997e-48,Emiliania huxleyi CCMP1516
+Smic.gene8336.mRNA1,-137.74964047153458,False,-244.6,False,1.4999999999999998e-60,Prunus avium
+Smic.gene8383.mRNA1,-30.531443209678216,False,-90.1,False,5.5e-14,Podospora anserina S mat+
+Smic.gene8405.mRNA1,-104.75576346792042,False,-195.7,False,3.1999999999999995e-46,Plasmodium gonderi
+Smic.gene8490.mRNA1,-62.8046757832752,False,-136.3,False,5.3e-28,Chrysochromulina tobinii
+Smic.gene8513.mRNA1,-192.25399700169416,False,-323.9,False,3.2e-84,Macrostomum lignano
+Smic.gene8519.mRNA1,-25.6431467677742,False,-82.8,False,7.3e-12,Chlamydomonas reinhardtii
+Smic.gene8553.mRNA1,-114.94693309290832,False,-210.3,False,1.2e-50,Emiliania huxleyi CCMP1516
+Smic.gene8585.mRNA1,-48.69677726182174,False,-117.5,False,7.1e-22,Balaenoptera acutorostrata scammoni
+Smic.gene8616.mRNA1,-32.84010734874864,False,-47.3,False,8.2e-28,Porphyra umbilicalis
+Smic.gene8778.mRNA1,-3.196402969016141,False,-4.700000000000003,False,1.8000000000000002e-16,Rhizophagus irregularis
+Smic.gene8780.mRNA1,-167.68324668045716,False,-287.0,False,1.4999999999999998e-73,Physcomitrella patens
+Smic.gene8861.mRNA1,-55.61871717579583,False,-124.8,False,6.9999999999999995e-25,Chlamydomonas reinhardtii
+Smic.gene8873.mRNA1,-29.83829602911827,False,-89.0,False,1.1e-13,Bombus terrestris
+Smic.gene8886.mRNA1,-114.5986263986401,False,-210.7,False,1.7e-50,Medicago truncatula
+Smic.gene8897.mRNA1,-144.187392121271,False,-252.7,False,2.3999999999999995e-63,Drosophila serrata
+Smic.gene8980.mRNA1,-55.9960114069373,False,-126.3,False,4.8e-25,Biomphalaria glabrata
+Smic.gene9003.mRNA1,-174.04095562252004,False,-297.7,False,2.5999999999999997e-76,Perkinsus marinus ATCC 50983
+Smic.gene9011.mRNA1,-77.18928087312945,False,-156.0,False,2.9999999999999996e-34,Guillardia theta CCMP2712
+Smic.gene9031.mRNA1,-291.63984944987953,False,-465.3,False,2.1999999999999993e-127,Fistulifera solaris
+Smic.gene9050.mRNA1,-64.51320459835354,False,-137.9,False,9.6e-29,Latimeria chalumnae
+Smic.gene9106.mRNA1,-1.051544777810129,False,-1.5,False,2.9e-24,Folsomia candida
+Smic.gene9131.mRNA1,-160.48780932902326,False,-276.6,False,1.9999999999999997e-70,Chlorella variabilis
+Smic.gene9135.mRNA1,-339.90712502576486,False,-535.0,False,2.3999999999999994e-148,Pedinophyceae sp. YPF-701
+Smic.gene9149.mRNA1,-31.012415870294525,False,-90.9,False,3.4e-14,Macrostomum lignano
+Smic.gene9197.mRNA1,-88.77119920958663,False,-173.3,False,2.8e-39,Emiliania huxleyi CCMP1516
+Smic.gene9273.mRNA1,-23.82435862615823,False,-78.6,False,4.5e-11,Ideonella sakaiensis
+Smic.gene9433.mRNA1,-452.4775386797087,False,-699.1,False,3.0999999999999985e-197,Perkinsus marinus ATCC 50983
+Smic.gene9434.mRNA1,-261.80155342076125,False,-422.9,False,1.9999999999999997e-114,Aureococcus anophagefferens
+Smic.gene9438.mRNA1,-67.82478982132601,False,-143.3,False,3.5e-30,Emiliania huxleyi CCMP1516
+Smic.gene955.mRNA1,-381.75912180776584,False,-595.9,False,1.5999999999999994e-166,Perkinsus marinus ATCC 50983
+Smic.gene9573.mRNA1,-56.976840659949026,False,-129.0,False,1.8e-25,Agrilus planipennis
+Smic.gene9612.mRNA1,-251.06515674529004,False,-407.5,False,9.199999999999998e-110,Emiliania huxleyi CCMP1516
+Smic.gene9705.mRNA1,-220.71169669080717,False,-364.4,False,1.3999999999999997e-96,Trichoplax adhaerens
+Smic.gene9726.mRNA1,-34.57959838943094,False,-93.6,False,9.6e-16,Vitrella brassicaformis CCMP3155
+Smic.gene9742.mRNA1,-24.635288842374557,False,-81.6,False,2.0000000000000002e-11,Chrysochromulina tobinii
+Smic.gene9754.mRNA1,-121.24855256832015,False,-219.2,False,2.1999999999999997e-53,Stentor coeruleus
+Smic.gene9867.mRNA1,-42.414115700154525,False,-102.8,False,3.8e-19,Heterocapsa triquetra
+Smic.gene9901.mRNA1,-32.29681592373308,False,-46.69999999999999,False,6.4e-32,Ostreococcus tauri
+Smic.gene9949.mRNA1,-136.06324151796434,False,-240.4,False,8.1e-60,Tupaia chinensis
