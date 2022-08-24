@@ -13,3 +13,6 @@ Content:
 
 # script to calculate the taxonomic distribution from a diamond output with taxonomic identification: Get_HGT_tax_distribution_V5.py
 # results from these calculations (raw and final)
+
+# Update in August 2022
+# Uploaded multifasta file with vHGT Symbiodiniaceae proteins
