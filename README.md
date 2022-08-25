@@ -3,7 +3,7 @@
 This repository contains scripts, examples and some results from the paper "Multiple waves of viral invasions in Symbiodiniaceae algal genomes" by Benites, Stephens and Bhattacharya (2022), to generate horizontal gene transfer indexes and calculations between the dinoflagellate algae Symbiodiniaceae and viruses.
 
 Content:
-# Update in August 2022 - Protein multifasta file with all Symbiodiniaceae vHGTs
+# Update in August 2022 - Protein multifasta file with all Symbiodiniaceae vHGTs: Symbiodiniaceae_vHGT_protein_sequences.fasta
 
 # script to fetch full taxonomy from diamond output: GetTaxID_table_V3.pl
 
