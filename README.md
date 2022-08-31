@@ -15,6 +15,7 @@ This repository contains scripts, examples and some results from the paper "Mult
 - script to calculate the sum of bitscore between a target and non-target taxa from a diamond output with taxonomic identification: Get_HGT_bitscore_sum_V1.py
 
 - script to calculate the taxonomic distribution from a diamond output with taxonomic identification: Get_HGT_tax_distribution_V5.py
-# results from these calculations (raw and final)
+
+results from these calculations (raw and final)
 
 
